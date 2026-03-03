@@ -7,6 +7,7 @@ const envSchema = z.object({
   NEXT_PUBLIC_SUPABASE_URL: z.string().url().optional(),
   NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: z.string().optional(),
   NEXT_PUBLIC_SUPABASE_ANON_KEY: z.string().optional(),
+  SUPABASE_SECRET_KEY: z.string().optional(),
   WORKFLOW_API_SECRET: z.string().min(20).optional(),
   WORKFLOW_TEAM_IDS: z.string().optional(),
   AZURE_AD_CLIENT_ID: z.string().optional(),
