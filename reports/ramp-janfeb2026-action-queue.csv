@@ -1,0 +1,928 @@
+priority,transaction_id,cohort,merchant,amount,primary_cause,recommended_action
+P1,51c7da56-a373-4753-9d69-016e0e12124c,A_NOT_APPROVED,Google Workspace,16.8,Awaiting approval,Approve transaction
+P2,51c7da56-a373-4753-9d69-016e0e12124c,A_NOT_APPROVED,Google Workspace,16.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0f98a634-e8fa-4be3-80f4-2c9ea11651df,A_NOT_APPROVED,Google Cloud,208.87,Awaiting approval,Approve transaction
+P2,0f98a634-e8fa-4be3-80f4-2c9ea11651df,A_NOT_APPROVED,Google Cloud,208.87,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5ffee5fa-bfa5-438d-a30e-03cb7719d3d8,A_NOT_APPROVED,Google Cloud,459.49,Awaiting approval,Approve transaction
+P2,5ffee5fa-bfa5-438d-a30e-03cb7719d3d8,A_NOT_APPROVED,Google Cloud,459.49,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0d1d9dd0-7342-481e-82c4-eefaf60121b6,A_NOT_APPROVED,Microsoft Office / Azure,6.3,Awaiting approval,Approve transaction
+P2,0d1d9dd0-7342-481e-82c4-eefaf60121b6,A_NOT_APPROVED,Microsoft Office / Azure,6.3,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9b66a29a-ac92-40ba-b0c3-a9fb0dc88cdf,A_NOT_APPROVED,Alaska Airlines,556.8,Awaiting approval,Approve transaction
+P2,9b66a29a-ac92-40ba-b0c3-a9fb0dc88cdf,A_NOT_APPROVED,Alaska Airlines,556.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,aeff3f69-5851-4166-b90d-7c9e6a4f79fb,A_NOT_APPROVED,Delta Air Lines,349,Awaiting approval,Approve transaction
+P2,aeff3f69-5851-4166-b90d-7c9e6a4f79fb,A_NOT_APPROVED,Delta Air Lines,349,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8ff6bd48-4333-4fe0-b03b-5c896cbe8ebc,A_NOT_APPROVED,American Airlines,112.11,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,8ff6bd48-4333-4fe0-b03b-5c896cbe8ebc,A_NOT_APPROVED,American Airlines,112.11,Awaiting approval,Approve transaction
+P2,8ff6bd48-4333-4fe0-b03b-5c896cbe8ebc,A_NOT_APPROVED,American Airlines,112.11,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5a672bd0-d2e3-4a77-adf8-8f015d016d7d,A_NOT_APPROVED,Microsoft Office / Azure,8.28,Awaiting approval,Approve transaction
+P2,5a672bd0-d2e3-4a77-adf8-8f015d016d7d,A_NOT_APPROVED,Microsoft Office / Azure,8.28,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c4578c12-33f5-4380-b23d-c2fcc76df07e,A_NOT_APPROVED,Bloomberg,60,Awaiting approval,Approve transaction
+P2,c4578c12-33f5-4380-b23d-c2fcc76df07e,A_NOT_APPROVED,Bloomberg,60,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e3d460cb-7014-46dc-a56d-0896d6befaf7,A_NOT_APPROVED,Saltgrass Steak House,144.24,Awaiting approval,Approve transaction
+P2,e3d460cb-7014-46dc-a56d-0896d6befaf7,A_NOT_APPROVED,Saltgrass Steak House,144.24,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cc8d98a4-fab5-4ba0-853a-982816b02235,A_NOT_APPROVED,Jetblue,78,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,cc8d98a4-fab5-4ba0-853a-982816b02235,A_NOT_APPROVED,Jetblue,78,Awaiting approval,Approve transaction
+P2,cc8d98a4-fab5-4ba0-853a-982816b02235,A_NOT_APPROVED,Jetblue,78,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,269f23dc-e5dc-41a9-acae-76c2d50f974d,A_NOT_APPROVED,Uber,94.93,Awaiting approval,Approve transaction
+P2,269f23dc-e5dc-41a9-acae-76c2d50f974d,A_NOT_APPROVED,Uber,94.93,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8d3f3a23-637b-4d81-99a5-fa2d18036e72,A_NOT_APPROVED,Uber,28.65,Awaiting approval,Approve transaction
+P2,8d3f3a23-637b-4d81-99a5-fa2d18036e72,A_NOT_APPROVED,Uber,28.65,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,dcd0187b-75b8-4d34-a578-9c6c57433c13,A_NOT_APPROVED,Starbucks,9.54,Awaiting approval,Approve transaction
+P2,dcd0187b-75b8-4d34-a578-9c6c57433c13,A_NOT_APPROVED,Starbucks,9.54,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4fa4a1a4-3d4f-4527-96ab-17b2ffed2d1c,A_NOT_APPROVED,Uber,5.74,Awaiting approval,Approve transaction
+P2,4fa4a1a4-3d4f-4527-96ab-17b2ffed2d1c,A_NOT_APPROVED,Uber,5.74,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3722cb26-f6e0-4005-afcb-611254e35362,A_NOT_APPROVED,Starbucks,5.46,Awaiting approval,Approve transaction
+P2,3722cb26-f6e0-4005-afcb-611254e35362,A_NOT_APPROVED,Starbucks,5.46,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,921617c1-2490-4cfd-9938-7d9753222299,A_NOT_APPROVED,Gogo InFlight,6.72,Awaiting approval,Approve transaction
+P2,921617c1-2490-4cfd-9938-7d9753222299,A_NOT_APPROVED,Gogo InFlight,6.72,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cc9f7471-4106-4bed-94c8-392450f49615,A_NOT_APPROVED,Premier Rider Service,136.81,Awaiting approval,Approve transaction
+P2,cc9f7471-4106-4bed-94c8-392450f49615,A_NOT_APPROVED,Premier Rider Service,136.81,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4a292c69-88be-4143-ab5c-16e29bfc2282,A_NOT_APPROVED,Premier Rider Service,28,Awaiting approval,Approve transaction
+P2,4a292c69-88be-4143-ab5c-16e29bfc2282,A_NOT_APPROVED,Premier Rider Service,28,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f4e92e8e-a519-4342-b279-2457d40c4f8f,A_NOT_APPROVED,TRP Taste,1000,Awaiting approval,Attach receipt
+P1,f4e92e8e-a519-4342-b279-2457d40c4f8f,A_NOT_APPROVED,TRP Taste,1000,Awaiting approval,Add memo
+P1,f4e92e8e-a519-4342-b279-2457d40c4f8f,A_NOT_APPROVED,TRP Taste,1000,Awaiting approval,Approve transaction
+P2,f4e92e8e-a519-4342-b279-2457d40c4f8f,A_NOT_APPROVED,TRP Taste,1000,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a3971103-4ef0-4ec9-a324-9ab7ad8b27de,A_NOT_APPROVED,Uber,6.15,Awaiting approval,Approve transaction
+P2,a3971103-4ef0-4ec9-a324-9ab7ad8b27de,A_NOT_APPROVED,Uber,6.15,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,782dbd88-a860-435e-a070-e467d4365d45,A_NOT_APPROVED,Uber,34.98,Awaiting approval,Approve transaction
+P2,782dbd88-a860-435e-a070-e467d4365d45,A_NOT_APPROVED,Uber,34.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,244eb6bc-0bdb-4d16-9d97-191b68269c52,A_NOT_APPROVED,Tastes On The Fly,36.24,Awaiting approval,Approve transaction
+P2,244eb6bc-0bdb-4d16-9d97-191b68269c52,A_NOT_APPROVED,Tastes On The Fly,36.24,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a0b3b97b-be63-4c0e-b6f6-3b62bc88479a,A_NOT_APPROVED,Klein's Deli,21.19,Awaiting approval,Approve transaction
+P2,a0b3b97b-be63-4c0e-b6f6-3b62bc88479a,A_NOT_APPROVED,Klein's Deli,21.19,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5a969228-3f7e-4577-b084-aebddeb67d50,A_NOT_APPROVED,City Bar St91,15.7,Awaiting approval,Approve transaction
+P2,5a969228-3f7e-4577-b084-aebddeb67d50,A_NOT_APPROVED,City Bar St91,15.7,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,397adae9-a0b6-4fc4-b1a0-1cf9dc0d3596,A_NOT_APPROVED,Marriott,19.81,Awaiting approval,Approve transaction
+P2,397adae9-a0b6-4fc4-b1a0-1cf9dc0d3596,A_NOT_APPROVED,Marriott,19.81,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,05551224-970e-46bf-b907-424d73961c73,A_NOT_APPROVED,Uber,14.23,Awaiting approval,Approve transaction
+P2,05551224-970e-46bf-b907-424d73961c73,A_NOT_APPROVED,Uber,14.23,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d60eb580-320f-4b2f-81cd-ddc57cbdf041,A_NOT_APPROVED,Freshii,17.6,Awaiting approval,Approve transaction
+P2,d60eb580-320f-4b2f-81cd-ddc57cbdf041,A_NOT_APPROVED,Freshii,17.6,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f6ab61b8-0b23-4e0b-a40d-b65687e88171,A_NOT_APPROVED,Porter,390.66,Awaiting approval,Approve transaction
+P2,f6ab61b8-0b23-4e0b-a40d-b65687e88171,A_NOT_APPROVED,Porter,390.66,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1e1ed835-0413-4497-afda-858d4c5f1209,A_NOT_APPROVED,Cousin's Bar-B-Q,32.61,Awaiting approval,Approve transaction
+P2,1e1ed835-0413-4497-afda-858d4c5f1209,A_NOT_APPROVED,Cousin's Bar-B-Q,32.61,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e6cf85f7-23b9-481e-9380-8bee2551fb3c,A_NOT_APPROVED,Marriott,267.03,Awaiting approval,Approve transaction
+P2,e6cf85f7-23b9-481e-9380-8bee2551fb3c,A_NOT_APPROVED,Marriott,267.03,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,09fb53d4-0772-4b97-934d-bdc7444a0883,A_NOT_APPROVED,Lyft,34.44,Awaiting approval,Approve transaction
+P2,09fb53d4-0772-4b97-934d-bdc7444a0883,A_NOT_APPROVED,Lyft,34.44,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e72c84c8-ff1a-4b77-9cc0-c3915ff85e38,A_NOT_APPROVED,Google Cloud,2000,Awaiting approval,Approve transaction
+P2,e72c84c8-ff1a-4b77-9cc0-c3915ff85e38,A_NOT_APPROVED,Google Cloud,2000,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,239cfda7-98cd-418f-b981-b89c0722d11e,A_NOT_APPROVED,Uber,30.99,Awaiting approval,Approve transaction
+P2,239cfda7-98cd-418f-b981-b89c0722d11e,A_NOT_APPROVED,Uber,30.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d21841ef-efa6-42af-b6cd-b97ca67d86fc,A_NOT_APPROVED,Marriott,8.56,Awaiting approval,Approve transaction
+P2,d21841ef-efa6-42af-b6cd-b97ca67d86fc,A_NOT_APPROVED,Marriott,8.56,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f537d65e-532d-4b3b-a4bf-fe007f93966f,A_NOT_APPROVED,Marriott,49.73,Awaiting approval,Approve transaction
+P2,f537d65e-532d-4b3b-a4bf-fe007f93966f,A_NOT_APPROVED,Marriott,49.73,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,58f9b961-e98f-4a02-ae51-6eb30abc6576,A_NOT_APPROVED,Uber,42.98,Awaiting approval,Approve transaction
+P2,58f9b961-e98f-4a02-ae51-6eb30abc6576,A_NOT_APPROVED,Uber,42.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9899ed9f-4af7-46b1-b703-dd8547434879,A_NOT_APPROVED,Marriott,17.63,Awaiting approval,Approve transaction
+P2,9899ed9f-4af7-46b1-b703-dd8547434879,A_NOT_APPROVED,Marriott,17.63,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f19b0fe1-e29b-445b-87a6-82b2b80e76d2,A_NOT_APPROVED,Flywheel,27.55,Awaiting approval,Approve transaction
+P2,f19b0fe1-e29b-445b-87a6-82b2b80e76d2,A_NOT_APPROVED,Flywheel,27.55,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8c14c70c-c01a-4b54-8df4-f9ab44ea4c56,A_NOT_APPROVED,Marriott,237.95,Awaiting approval,Approve transaction
+P2,8c14c70c-c01a-4b54-8df4-f9ab44ea4c56,A_NOT_APPROVED,Marriott,237.95,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,81abffe8-7071-4a27-9185-ce31b6a14c6a,A_NOT_APPROVED,Marriott,17.12,Awaiting approval,Approve transaction
+P2,81abffe8-7071-4a27-9185-ce31b6a14c6a,A_NOT_APPROVED,Marriott,17.12,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,da81211d-6ec4-4592-8bbb-abb4a0e97eca,A_NOT_APPROVED,Uber,11.95,Awaiting approval,Approve transaction
+P2,da81211d-6ec4-4592-8bbb-abb4a0e97eca,A_NOT_APPROVED,Uber,11.95,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,af3ea254-d1cc-490f-9c8c-a8b23f30579c,A_NOT_APPROVED,Uber,10.95,Awaiting approval,Approve transaction
+P2,af3ea254-d1cc-490f-9c8c-a8b23f30579c,A_NOT_APPROVED,Uber,10.95,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4503e067-5dc0-4844-b4f9-ad55c27cf1f6,A_NOT_APPROVED,Uber,2,Awaiting approval,Approve transaction
+P2,4503e067-5dc0-4844-b4f9-ad55c27cf1f6,A_NOT_APPROVED,Uber,2,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b0323023-0e58-46e2-92a7-44671659343e,A_NOT_APPROVED,Bombay Darbar,33.17,Awaiting approval,Approve transaction
+P2,b0323023-0e58-46e2-92a7-44671659343e,A_NOT_APPROVED,Bombay Darbar,33.17,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4de268b9-dbb6-4673-a8e3-4ebb94c5389d,A_NOT_APPROVED,Uber,9.94,Awaiting approval,Approve transaction
+P2,4de268b9-dbb6-4673-a8e3-4ebb94c5389d,A_NOT_APPROVED,Uber,9.94,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8253bdbf-35a8-4e24-a950-00a5cb0f4c21,A_NOT_APPROVED,TAKATO,80.48,Awaiting approval,Approve transaction
+P2,8253bdbf-35a8-4e24-a950-00a5cb0f4c21,A_NOT_APPROVED,TAKATO,80.48,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ccec751c-49d4-4c77-90cd-43e655b2e9d5,A_NOT_APPROVED,Uber,2,Awaiting approval,Approve transaction
+P2,ccec751c-49d4-4c77-90cd-43e655b2e9d5,A_NOT_APPROVED,Uber,2,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8faf3eac-2642-4c81-9aba-ce66469bb238,A_NOT_APPROVED,Evelyn's,959.15,Awaiting approval,Approve transaction
+P2,8faf3eac-2642-4c81-9aba-ce66469bb238,A_NOT_APPROVED,Evelyn's,959.15,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,90237396-5cc7-443f-8395-37064fe46e14,A_NOT_APPROVED,Power Center,20,Awaiting approval,Approve transaction
+P2,90237396-5cc7-443f-8395-37064fe46e14,A_NOT_APPROVED,Power Center,20,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,09bf424f-ba4a-4c1e-9ea5-8b970e742b03,A_NOT_APPROVED,Power Center,17,Awaiting approval,Approve transaction
+P2,09bf424f-ba4a-4c1e-9ea5-8b970e742b03,A_NOT_APPROVED,Power Center,17,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bf5a90b5-1549-4092-9968-83fcfe65e6d0,A_NOT_APPROVED,365 Retail Markets,4,Awaiting approval,Approve transaction
+P2,bf5a90b5-1549-4092-9968-83fcfe65e6d0,A_NOT_APPROVED,365 Retail Markets,4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5c60b621-6900-4f1d-8a24-31cb6493214f,A_NOT_APPROVED,Marriott,20.26,Awaiting approval,Approve transaction
+P2,5c60b621-6900-4f1d-8a24-31cb6493214f,A_NOT_APPROVED,Marriott,20.26,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,dd87ebb4-4b19-462a-a701-aba194c5613b,A_NOT_APPROVED,Marriott,14.18,Awaiting approval,Approve transaction
+P2,dd87ebb4-4b19-462a-a701-aba194c5613b,A_NOT_APPROVED,Marriott,14.18,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c4d9ea58-5888-4cae-a9ab-d65bdaa7ceae,A_NOT_APPROVED,Air Canada,22.13,Awaiting approval,Approve transaction
+P2,c4d9ea58-5888-4cae-a9ab-d65bdaa7ceae,A_NOT_APPROVED,Air Canada,22.13,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,659a5d2d-743e-4ae3-9583-a996b7f08fe4,A_NOT_APPROVED,Madareem Hotel,1342.86,Awaiting approval,Approve transaction
+P2,659a5d2d-743e-4ae3-9583-a996b7f08fe4,A_NOT_APPROVED,Madareem Hotel,1342.86,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d4db9d5b-a537-48be-b14b-b693ac4a0d58,A_NOT_APPROVED,365 Retail Markets,5,Awaiting approval,Approve transaction
+P2,d4db9d5b-a537-48be-b14b-b693ac4a0d58,A_NOT_APPROVED,365 Retail Markets,5,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,42b87a46-dc9b-4216-bd01-c6a76fdcc292,A_NOT_APPROVED,Oven and Shaker,15.49,Awaiting approval,Approve transaction
+P2,42b87a46-dc9b-4216-bd01-c6a76fdcc292,A_NOT_APPROVED,Oven and Shaker,15.49,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c7c02ba2-7898-4630-b980-d9362871541f,A_NOT_APPROVED,Uber,26.95,Awaiting approval,Approve transaction
+P2,c7c02ba2-7898-4630-b980-d9362871541f,A_NOT_APPROVED,Uber,26.95,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,da9c1679-3bba-469f-8751-a8d9accc65b2,A_NOT_APPROVED,The Heathman Hotel,198.64,Awaiting approval,Approve transaction
+P2,da9c1679-3bba-469f-8751-a8d9accc65b2,A_NOT_APPROVED,The Heathman Hotel,198.64,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f81ea3f8-d0c9-4ea4-a534-ff0821ccd10e,A_NOT_APPROVED,Uber,13.94,Awaiting approval,Approve transaction
+P2,f81ea3f8-d0c9-4ea4-a534-ff0821ccd10e,A_NOT_APPROVED,Uber,13.94,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a737b792-427a-42fc-afcc-61537c4246a6,A_NOT_APPROVED,Marriott,28.14,Awaiting approval,Approve transaction
+P2,a737b792-427a-42fc-afcc-61537c4246a6,A_NOT_APPROVED,Marriott,28.14,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a1f0f804-8ec4-43fe-bc96-0827a0d77200,A_NOT_APPROVED,Uber,18.98,Awaiting approval,Approve transaction
+P2,a1f0f804-8ec4-43fe-bc96-0827a0d77200,A_NOT_APPROVED,Uber,18.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,98801066-b414-4dd0-b11c-a2387100e6f9,A_NOT_APPROVED,Marriott,5.3,Awaiting approval,Approve transaction
+P2,98801066-b414-4dd0-b11c-a2387100e6f9,A_NOT_APPROVED,Marriott,5.3,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f36705a0-c52d-4142-82aa-1c7b412f7727,A_NOT_APPROVED,Marriott,5.3,Awaiting approval,Approve transaction
+P2,f36705a0-c52d-4142-82aa-1c7b412f7727,A_NOT_APPROVED,Marriott,5.3,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bfbe8bd4-5534-4196-9a9a-5bab9c21c9bc,A_NOT_APPROVED,Portland,28.8,Awaiting approval,Approve transaction
+P2,bfbe8bd4-5534-4196-9a9a-5bab9c21c9bc,A_NOT_APPROVED,Portland,28.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,370368c2-53fc-4ddc-88f3-04edff775978,A_NOT_APPROVED,Airport,28.63,Awaiting approval,Approve transaction
+P2,370368c2-53fc-4ddc-88f3-04edff775978,A_NOT_APPROVED,Airport,28.63,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,49a6df3c-b723-4f30-a139-e13075c140d0,A_NOT_APPROVED,HB Fresh,24.13,Awaiting approval,Approve transaction
+P2,49a6df3c-b723-4f30-a139-e13075c140d0,A_NOT_APPROVED,HB Fresh,24.13,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4801c356-cea4-4b9c-8646-dc5caaf510df,A_NOT_APPROVED,Marriott,20.33,Awaiting approval,Approve transaction
+P2,4801c356-cea4-4b9c-8646-dc5caaf510df,A_NOT_APPROVED,Marriott,20.33,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,87de8973-2959-457a-9a43-5836cb1a8e00,A_NOT_APPROVED,Uber,24.97,Awaiting approval,Approve transaction
+P2,87de8973-2959-457a-9a43-5836cb1a8e00,A_NOT_APPROVED,Uber,24.97,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1e22eb52-7b37-4339-9219-0509d1caab30,A_NOT_APPROVED,Uber,27.94,Awaiting approval,Approve transaction
+P2,1e22eb52-7b37-4339-9219-0509d1caab30,A_NOT_APPROVED,Uber,27.94,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bfabcc4b-3471-4d84-84d4-1586863fdb8c,A_NOT_APPROVED,Travel @ Ease,14.24,Awaiting approval,Approve transaction
+P2,bfabcc4b-3471-4d84-84d4-1586863fdb8c,A_NOT_APPROVED,Travel @ Ease,14.24,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4fcdad29-475f-46f2-a4a3-71e8a8a6f211,A_NOT_APPROVED,Uber,36.94,Awaiting approval,Approve transaction
+P2,4fcdad29-475f-46f2-a4a3-71e8a8a6f211,A_NOT_APPROVED,Uber,36.94,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2f117105-1dd4-4125-b583-5562460a5e26,A_NOT_APPROVED,T2 Umaizushi Sushi Fll Restaurant,45.58,Awaiting approval,Approve transaction
+P2,2f117105-1dd4-4125-b583-5562460a5e26,A_NOT_APPROVED,T2 Umaizushi Sushi Fll Restaurant,45.58,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ad49c3d9-2166-4243-9b75-91b561ecb9ba,A_NOT_APPROVED,Evolve,16.32,Awaiting approval,Approve transaction
+P2,ad49c3d9-2166-4243-9b75-91b561ecb9ba,A_NOT_APPROVED,Evolve,16.32,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,05c9572c-c02a-4116-acea-10f4cd87e8a5,A_NOT_APPROVED,Evolve,11.99,Awaiting approval,Approve transaction
+P2,05c9572c-c02a-4116-acea-10f4cd87e8a5,A_NOT_APPROVED,Evolve,11.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9b7a7922-3aa8-4724-ba2c-ba01397a3ecc,A_NOT_APPROVED,Dfw Airport Parking,96,Awaiting approval,Attach receipt
+P1,9b7a7922-3aa8-4724-ba2c-ba01397a3ecc,A_NOT_APPROVED,Dfw Airport Parking,96,Awaiting approval,Approve transaction
+P2,9b7a7922-3aa8-4724-ba2c-ba01397a3ecc,A_NOT_APPROVED,Dfw Airport Parking,96,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5ce3ec5d-40a3-4b88-bfcd-108505038741,A_NOT_APPROVED,Arlington Crown Ca,71.46,Awaiting approval,Approve transaction
+P2,5ce3ec5d-40a3-4b88-bfcd-108505038741,A_NOT_APPROVED,Arlington Crown Ca,71.46,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2725d467-5c53-4265-9227-11871dfccd38,A_NOT_APPROVED,Rooftop,2524.56,Awaiting approval,Attach receipt
+P1,2725d467-5c53-4265-9227-11871dfccd38,A_NOT_APPROVED,Rooftop,2524.56,Awaiting approval,Add memo
+P1,2725d467-5c53-4265-9227-11871dfccd38,A_NOT_APPROVED,Rooftop,2524.56,Awaiting approval,Approve transaction
+P2,2725d467-5c53-4265-9227-11871dfccd38,A_NOT_APPROVED,Rooftop,2524.56,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1494d220-6e17-423f-a5b6-749ab155d61a,A_NOT_APPROVED,Sfo Parkingcentra,54,Awaiting approval,Approve transaction
+P2,1494d220-6e17-423f-a5b6-749ab155d61a,A_NOT_APPROVED,Sfo Parkingcentra,54,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cd344cf8-12c6-4009-8c54-da8db2918bd2,A_NOT_APPROVED,Uber,106.89,Awaiting approval,Approve transaction
+P2,cd344cf8-12c6-4009-8c54-da8db2918bd2,A_NOT_APPROVED,Uber,106.89,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3c2d0fda-4445-42b9-ba99-1f85001f6e78,A_NOT_APPROVED,Power Center,28.1,Awaiting approval,Approve transaction
+P2,3c2d0fda-4445-42b9-ba99-1f85001f6e78,A_NOT_APPROVED,Power Center,28.1,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e799729f-9ba3-4242-b018-4389adb20415,A_NOT_APPROVED,Uber,31.39,Awaiting approval,Approve transaction
+P2,e799729f-9ba3-4242-b018-4389adb20415,A_NOT_APPROVED,Uber,31.39,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9ca95b32-7cbd-4d5f-9724-9cbbeca8978e,A_NOT_APPROVED,Uber,6.27,Awaiting approval,Approve transaction
+P2,9ca95b32-7cbd-4d5f-9724-9cbbeca8978e,A_NOT_APPROVED,Uber,6.27,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,180cb041-78f3-4ce5-a273-0639d2393b5c,A_NOT_APPROVED,365 Retail Markets,5,Awaiting approval,Approve transaction
+P2,180cb041-78f3-4ce5-a273-0639d2393b5c,A_NOT_APPROVED,365 Retail Markets,5,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,71ab53e5-e91f-40d3-99aa-484cbfb1a1e6,A_NOT_APPROVED,Rocco's Tacos,37.72,Awaiting approval,Approve transaction
+P2,71ab53e5-e91f-40d3-99aa-484cbfb1a1e6,A_NOT_APPROVED,Rocco's Tacos,37.72,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d83d89e6-1ce4-4aef-9a08-c04d730255ba,A_NOT_APPROVED,American Airlines,119.02,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,d83d89e6-1ce4-4aef-9a08-c04d730255ba,A_NOT_APPROVED,American Airlines,119.02,Awaiting approval,Approve transaction
+P2,d83d89e6-1ce4-4aef-9a08-c04d730255ba,A_NOT_APPROVED,American Airlines,119.02,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,dc5c29b8-15a5-4cef-afa9-13cced3c1629,A_NOT_APPROVED,Lyft,26.86,Awaiting approval,Approve transaction
+P2,dc5c29b8-15a5-4cef-afa9-13cced3c1629,A_NOT_APPROVED,Lyft,26.86,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c7524ab9-ca72-4ab6-b9b3-17211ae0ff7c,A_NOT_APPROVED,Airport,37.66,Awaiting approval,Approve transaction
+P2,c7524ab9-ca72-4ab6-b9b3-17211ae0ff7c,A_NOT_APPROVED,Airport,37.66,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,abffa4a8-ef73-4fb8-86ca-09ab2f7af3dc,A_NOT_APPROVED,Fort lauderdale,5.34,Awaiting approval,Approve transaction
+P2,abffa4a8-ef73-4fb8-86ca-09ab2f7af3dc,A_NOT_APPROVED,Fort lauderdale,5.34,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,dd1ebac8-47d4-4345-a41e-ebf05932fccd,A_NOT_APPROVED,American Airlines,18,Awaiting approval,Approve transaction
+P2,dd1ebac8-47d4-4345-a41e-ebf05932fccd,A_NOT_APPROVED,American Airlines,18,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e73a52f3-85d0-4b67-815d-bf9574705a9f,A_NOT_APPROVED,Premier Rider Service,60.57,Awaiting approval,Approve transaction
+P2,e73a52f3-85d0-4b67-815d-bf9574705a9f,A_NOT_APPROVED,Premier Rider Service,60.57,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5344c794-b1ab-45ab-90e8-03dba4bf2840,A_NOT_APPROVED,Premier Rider Service,10,Awaiting approval,Approve transaction
+P2,5344c794-b1ab-45ab-90e8-03dba4bf2840,A_NOT_APPROVED,Premier Rider Service,10,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8789bd78-714b-41c7-bdb3-035d7364a565,A_NOT_APPROVED,Microsoft Office / Azure,14.4,Awaiting approval,Approve transaction
+P2,8789bd78-714b-41c7-bdb3-035d7364a565,A_NOT_APPROVED,Microsoft Office / Azure,14.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8f15a4df-b4cb-4e30-a10b-114f6b41c458,A_NOT_APPROVED,Marriott,17.12,Awaiting approval,Approve transaction
+P2,8f15a4df-b4cb-4e30-a10b-114f6b41c458,A_NOT_APPROVED,Marriott,17.12,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,920be495-bf1e-47cc-ab0b-cf5e76ec79ff,A_NOT_APPROVED,American Airlines,298.99,Awaiting approval,Approve transaction
+P2,920be495-bf1e-47cc-ab0b-cf5e76ec79ff,A_NOT_APPROVED,American Airlines,298.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,38e8ce0a-90c0-4ff8-96b9-4f4a6cdbad2b,A_NOT_APPROVED,Intuit,7.8,Awaiting approval,Approve transaction
+P2,38e8ce0a-90c0-4ff8-96b9-4f4a6cdbad2b,A_NOT_APPROVED,Intuit,7.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8c087cc5-d026-4086-9451-d41897731547,A_NOT_APPROVED,RGN Management Limited Partnership,119.06,Awaiting approval,Approve transaction
+P2,8c087cc5-d026-4086-9451-d41897731547,A_NOT_APPROVED,RGN Management Limited Partnership,119.06,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1773f177-8c5f-42e0-9d04-38f17c3c07d4,A_NOT_APPROVED,Uber,15.76,Awaiting approval,Approve transaction
+P2,1773f177-8c5f-42e0-9d04-38f17c3c07d4,A_NOT_APPROVED,Uber,15.76,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,55d8b578-0de1-47bf-b25f-b23020aa50e6,A_NOT_APPROVED,Southwest Airlines,617.97,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,55d8b578-0de1-47bf-b25f-b23020aa50e6,A_NOT_APPROVED,Southwest Airlines,617.97,Awaiting approval,Approve transaction
+P2,55d8b578-0de1-47bf-b25f-b23020aa50e6,A_NOT_APPROVED,Southwest Airlines,617.97,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c2d4bdb1-ed55-4dbf-b888-bd26fe165821,A_NOT_APPROVED,Regus,71,Awaiting approval,Approve transaction
+P2,c2d4bdb1-ed55-4dbf-b888-bd26fe165821,A_NOT_APPROVED,Regus,71,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e58d6813-dac2-471c-919b-6ddb04a65277,A_NOT_APPROVED,RGN Management Limited Partnership,206.84,Awaiting approval,Approve transaction
+P2,e58d6813-dac2-471c-919b-6ddb04a65277,A_NOT_APPROVED,RGN Management Limited Partnership,206.84,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,7520d476-ea3d-4ea3-9f86-9ebda7a844ad,A_NOT_APPROVED,Regus,266.31,Awaiting approval,Approve transaction
+P2,7520d476-ea3d-4ea3-9f86-9ebda7a844ad,A_NOT_APPROVED,Regus,266.31,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,50c56f2a-5972-4fa6-955a-75f722be0eea,A_NOT_APPROVED,Uber,27.19,Awaiting approval,Approve transaction
+P2,50c56f2a-5972-4fa6-955a-75f722be0eea,A_NOT_APPROVED,Uber,27.19,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2b4c2aa9-e81c-4896-abb3-405b17f00b6c,A_NOT_APPROVED,Park MGM Las Vegas,8.49,Awaiting approval,Approve transaction
+P2,2b4c2aa9-e81c-4896-abb3-405b17f00b6c,A_NOT_APPROVED,Park MGM Las Vegas,8.49,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e7169d75-0b75-4360-83f8-4b239453193d,A_NOT_APPROVED,Rare Society,418.01,Awaiting approval,Approve transaction
+P2,e7169d75-0b75-4360-83f8-4b239453193d,A_NOT_APPROVED,Rare Society,418.01,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,82273780-46a3-4bac-90ea-8b5a501a1b36,A_NOT_APPROVED,Dal Texspress,13.38,Awaiting approval,Approve transaction
+P2,82273780-46a3-4bac-90ea-8b5a501a1b36,A_NOT_APPROVED,Dal Texspress,13.38,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bad05ca7-e395-44c7-82aa-9f9a61e73817,A_NOT_APPROVED,Uber,49.98,Awaiting approval,Approve transaction
+P2,bad05ca7-e395-44c7-82aa-9f9a61e73817,A_NOT_APPROVED,Uber,49.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bad951e6-1406-41f5-8e55-caa211e775e3,A_NOT_APPROVED,Market@Work Restaurant,3.99,Awaiting approval,Approve transaction
+P2,bad951e6-1406-41f5-8e55-caa211e775e3,A_NOT_APPROVED,Market@Work Restaurant,3.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a7eb88b4-4fc1-493c-85ea-cdd8e791f352,A_NOT_APPROVED,Teex Prof & Cont Ed,2500,Awaiting approval,Approve transaction
+P2,a7eb88b4-4fc1-493c-85ea-cdd8e791f352,A_NOT_APPROVED,Teex Prof & Cont Ed,2500,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a57e2499-7212-422d-ae09-b4cf3c538735,A_NOT_APPROVED,Uber,28.97,Awaiting approval,Approve transaction
+P2,a57e2499-7212-422d-ae09-b4cf3c538735,A_NOT_APPROVED,Uber,28.97,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9b6a194d-c2b8-49c8-8cb6-3e06d4cdadd4,A_NOT_APPROVED,Uber,25.99,Awaiting approval,Approve transaction
+P2,9b6a194d-c2b8-49c8-8cb6-3e06d4cdadd4,A_NOT_APPROVED,Uber,25.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d02032e2-a18a-4d30-9c6d-b5192871afe0,A_NOT_APPROVED,Hudson News,7.99,Awaiting approval,Approve transaction
+P2,d02032e2-a18a-4d30-9c6d-b5192871afe0,A_NOT_APPROVED,Hudson News,7.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d74ef1c3-6c4e-4da9-9fe0-e93e826056ac,A_NOT_APPROVED,Uber,36.98,Awaiting approval,Approve transaction
+P2,d74ef1c3-6c4e-4da9-9fe0-e93e826056ac,A_NOT_APPROVED,Uber,36.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2568b858-b311-4d42-8e4f-475df8cf76d7,A_NOT_APPROVED,Tez Safewayprkgsundiallot,35,Awaiting approval,Approve transaction
+P2,2568b858-b311-4d42-8e4f-475df8cf76d7,A_NOT_APPROVED,Tez Safewayprkgsundiallot,35,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,31bcdf7e-59be-43be-a50d-4ea348ad28da,A_NOT_APPROVED,Wix,24,Awaiting approval,Approve transaction
+P2,31bcdf7e-59be-43be-a50d-4ea348ad28da,A_NOT_APPROVED,Wix,24,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1c4597d8-d0e8-4cbc-ae21-995f7a608220,A_NOT_APPROVED,CIBTvisas,964.5,Awaiting approval,Approve transaction
+P2,1c4597d8-d0e8-4cbc-ae21-995f7a608220,A_NOT_APPROVED,CIBTvisas,964.5,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,64e61863-9c0e-4d4e-abd7-ea3747039c5d,A_NOT_APPROVED,Served by Stadium,21.65,Awaiting approval,Approve transaction
+P2,64e61863-9c0e-4d4e-abd7-ea3747039c5d,A_NOT_APPROVED,Served by Stadium,21.65,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,fc4f1840-1016-4c28-960d-38e58589e3f8,A_NOT_APPROVED,Alaska Airlines,520.39,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,fc4f1840-1016-4c28-960d-38e58589e3f8,A_NOT_APPROVED,Alaska Airlines,520.39,Awaiting approval,Approve transaction
+P2,fc4f1840-1016-4c28-960d-38e58589e3f8,A_NOT_APPROVED,Alaska Airlines,520.39,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c432cdc9-4038-42bf-b8a7-63e030704a9b,A_NOT_APPROVED,Next Day Display,1138.98,Awaiting approval,Approve transaction
+P2,c432cdc9-4038-42bf-b8a7-63e030704a9b,A_NOT_APPROVED,Next Day Display,1138.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ab5d89b4-edee-4b12-94b5-d8c2f8ab700f,A_NOT_APPROVED,Microsoft Office / Azure,13.7,Awaiting approval,Approve transaction
+P2,ab5d89b4-edee-4b12-94b5-d8c2f8ab700f,A_NOT_APPROVED,Microsoft Office / Azure,13.7,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,08e44511-3b1b-44f0-9343-5ff433ab1132,A_NOT_APPROVED,Fairfield Inn & Suites,1,Awaiting approval,Approve transaction
+P2,08e44511-3b1b-44f0-9343-5ff433ab1132,A_NOT_APPROVED,Fairfield Inn & Suites,1,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3fbc819b-763e-4fcb-8e7c-6d73bd65c2ab,A_NOT_APPROVED,OpenPhone,19.54,Awaiting approval,Approve transaction
+P2,3fbc819b-763e-4fcb-8e7c-6d73bd65c2ab,A_NOT_APPROVED,OpenPhone,19.54,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e6d4ebcc-f351-4023-ac51-cc9aff280ffb,A_NOT_APPROVED,Buffer,240,Awaiting approval,Approve transaction
+P2,e6d4ebcc-f351-4023-ac51-cc9aff280ffb,A_NOT_APPROVED,Buffer,240,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8dbca96d-e9dc-4c94-ac81-2625f9eb6905,A_NOT_APPROVED,Uber,31.98,Awaiting approval,Approve transaction
+P2,8dbca96d-e9dc-4c94-ac81-2625f9eb6905,A_NOT_APPROVED,Uber,31.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5d7c1e80-ef02-41ba-bdcc-0c2a474c9031,A_NOT_APPROVED,Fairfield Inn & Suites,230.43,Awaiting approval,Approve transaction
+P2,5d7c1e80-ef02-41ba-bdcc-0c2a474c9031,A_NOT_APPROVED,Fairfield Inn & Suites,230.43,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f09058d6-e54c-4d0c-b402-fdc935c0528d,A_NOT_APPROVED,Sophia Loren Pizzeria,175.92,Awaiting approval,Approve transaction
+P2,f09058d6-e54c-4d0c-b402-fdc935c0528d,A_NOT_APPROVED,Sophia Loren Pizzeria,175.92,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cb6389cd-291e-43ac-93e8-c830d1c7ed3e,A_NOT_APPROVED,United,216.74,Awaiting approval,Approve transaction
+P2,cb6389cd-291e-43ac-93e8-c830d1c7ed3e,A_NOT_APPROVED,United,216.74,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3e36c850-ad90-40ed-8fe0-407235dc1516,A_NOT_APPROVED,Delta Air Lines,313.48,Awaiting approval,Approve transaction
+P2,3e36c850-ad90-40ed-8fe0-407235dc1516,A_NOT_APPROVED,Delta Air Lines,313.48,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b1e4d8c0-ab3a-4286-b007-be26d99f245f,A_NOT_APPROVED,Uber,20.95,Awaiting approval,Approve transaction
+P2,b1e4d8c0-ab3a-4286-b007-be26d99f245f,A_NOT_APPROVED,Uber,20.95,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9eb7f7b8-2a8c-4f6f-9a5d-f6f920ab345a,A_NOT_APPROVED,United,113.48,Awaiting approval,Approve transaction
+P2,9eb7f7b8-2a8c-4f6f-9a5d-f6f920ab345a,A_NOT_APPROVED,United,113.48,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ad29953d-79c8-4b9f-a255-fd52a494e7ce,A_NOT_APPROVED,Uber,18.95,Awaiting approval,Approve transaction
+P2,ad29953d-79c8-4b9f-a255-fd52a494e7ce,A_NOT_APPROVED,Uber,18.95,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,754335eb-a7b6-483a-aaab-4d5c0cbf067b,A_NOT_APPROVED,Uber,16.96,Awaiting approval,Approve transaction
+P2,754335eb-a7b6-483a-aaab-4d5c0cbf067b,A_NOT_APPROVED,Uber,16.96,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,46ff6a94-67b3-44ec-b7c7-5b93f67affe6,A_NOT_APPROVED,City of Eugene,38,Awaiting approval,Approve transaction
+P2,46ff6a94-67b3-44ec-b7c7-5b93f67affe6,A_NOT_APPROVED,City of Eugene,38,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,6c4d62ad-80cc-4fde-bd21-3c310a6c0f46,A_NOT_APPROVED,Alaska Airlines,486.8,Awaiting approval,Approve transaction
+P2,6c4d62ad-80cc-4fde-bd21-3c310a6c0f46,A_NOT_APPROVED,Alaska Airlines,486.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8c8d5ac2-5d8e-43dc-bd58-b93c89bce708,A_NOT_APPROVED,Sheraton,39.96,Awaiting approval,Approve transaction
+P2,8c8d5ac2-5d8e-43dc-bd58-b93c89bce708,A_NOT_APPROVED,Sheraton,39.96,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9dfc8049-e280-4f7c-898c-31979ffd4bf0,A_NOT_APPROVED,4imprint,954.11,Awaiting approval,Approve transaction
+P2,9dfc8049-e280-4f7c-898c-31979ffd4bf0,A_NOT_APPROVED,4imprint,954.11,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4d8a8b22-5e5b-47c4-aac8-778e0af7d316,A_NOT_APPROVED,Genspark,20,Awaiting approval,Approve transaction
+P2,4d8a8b22-5e5b-47c4-aac8-778e0af7d316,A_NOT_APPROVED,Genspark,20,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,99d8b8df-ee6a-4b8a-af6b-16b17fb52a75,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P2,99d8b8df-ee6a-4b8a-af6b-16b17fb52a75,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cc506b4a-5cdb-4cae-b21c-9c360930601d,A_NOT_APPROVED,Amtrak,150,Awaiting approval,Approve transaction
+P2,cc506b4a-5cdb-4cae-b21c-9c360930601d,A_NOT_APPROVED,Amtrak,150,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,14299946-f3ca-4736-b9bd-6bff49b9c6f4,A_NOT_APPROVED,Air Canada,10.2,Awaiting approval,Approve transaction
+P2,14299946-f3ca-4736-b9bd-6bff49b9c6f4,A_NOT_APPROVED,Air Canada,10.2,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,6c1a5661-9bdc-4fae-80fb-d7bfa6fe6a70,A_NOT_APPROVED,Paypal,1510,Awaiting approval,Approve transaction
+P2,6c1a5661-9bdc-4fae-80fb-d7bfa6fe6a70,A_NOT_APPROVED,Paypal,1510,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,35e76201-5f33-479e-b772-2521514f292e,A_NOT_APPROVED,Grasshopper,144.27,Awaiting approval,Approve transaction
+P2,35e76201-5f33-479e-b772-2521514f292e,A_NOT_APPROVED,Grasshopper,144.27,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b120b59d-4058-4c68-bea7-3ca0c454e2e1,A_NOT_APPROVED,Google Workspace,12,Awaiting approval,Approve transaction
+P2,b120b59d-4058-4c68-bea7-3ca0c454e2e1,A_NOT_APPROVED,Google Workspace,12,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9d82992d-fc70-4ecb-994c-f7d2169533dd,A_NOT_APPROVED,Google Workspace,16.8,Awaiting approval,Approve transaction
+P2,9d82992d-fc70-4ecb-994c-f7d2169533dd,A_NOT_APPROVED,Google Workspace,16.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,91d6beb8-1beb-44ee-a1bc-74ef8aa895b4,A_NOT_APPROVED,Shodan,69,Awaiting approval,Approve transaction
+P2,91d6beb8-1beb-44ee-a1bc-74ef8aa895b4,A_NOT_APPROVED,Shodan,69,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a2874e9d-7d21-4829-b38c-75051b567f1a,A_NOT_APPROVED,Google Cloud,5258.13,Awaiting approval,Approve transaction
+P2,a2874e9d-7d21-4829-b38c-75051b567f1a,A_NOT_APPROVED,Google Cloud,5258.13,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e3c889b1-ed7e-4c94-82c4-023bd3b811f2,A_NOT_APPROVED,Google Cloud,48.76,Awaiting approval,Approve transaction
+P2,e3c889b1-ed7e-4c94-82c4-023bd3b811f2,A_NOT_APPROVED,Google Cloud,48.76,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8f348914-8104-4583-8c2a-f2fe34f09c1a,A_NOT_APPROVED,Sentry,389,Awaiting approval,Approve transaction
+P2,8f348914-8104-4583-8c2a-f2fe34f09c1a,A_NOT_APPROVED,Sentry,389,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cf5dcee3-c57e-4908-b99d-2de2f5df7732,A_NOT_APPROVED,Fedex,55.93,Awaiting approval,Approve transaction
+P2,cf5dcee3-c57e-4908-b99d-2de2f5df7732,A_NOT_APPROVED,Fedex,55.93,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,7a25ffc2-259f-48e3-8814-afd620c65208,A_NOT_APPROVED,Anthropic,125,Awaiting approval,Approve transaction
+P2,7a25ffc2-259f-48e3-8814-afd620c65208,A_NOT_APPROVED,Anthropic,125,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,76d71606-c5c1-4ad9-8dd4-f56ab68e2174,A_NOT_APPROVED,Qdf Harrods F And B Restaurant,11.34,Awaiting approval,Approve transaction
+P2,76d71606-c5c1-4ad9-8dd4-f56ab68e2174,A_NOT_APPROVED,Qdf Harrods F And B Restaurant,11.34,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2ebe99e0-eb6a-4cf4-8946-650b8af44b15,A_NOT_APPROVED,Jamocha,4.53,Awaiting approval,Approve transaction
+P2,2ebe99e0-eb6a-4cf4-8946-650b8af44b15,A_NOT_APPROVED,Jamocha,4.53,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,754f35f4-3ec6-4898-9ab6-872df9095464,A_NOT_APPROVED,USPS,187.2,Awaiting approval,Approve transaction
+P2,754f35f4-3ec6-4898-9ab6-872df9095464,A_NOT_APPROVED,USPS,187.2,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,dd341bc3-42e5-40d7-ab19-2770465734b1,A_NOT_APPROVED,Uber,41.34,Awaiting approval,Approve transaction
+P2,dd341bc3-42e5-40d7-ab19-2770465734b1,A_NOT_APPROVED,Uber,41.34,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e7a963da-db48-4b93-b072-852875d326e5,A_NOT_APPROVED,Flower Child,118.56,Awaiting approval,Attach receipt
+P1,e7a963da-db48-4b93-b072-852875d326e5,A_NOT_APPROVED,Flower Child,118.56,Awaiting approval,Add memo
+P1,e7a963da-db48-4b93-b072-852875d326e5,A_NOT_APPROVED,Flower Child,118.56,Awaiting approval,Approve transaction
+P2,e7a963da-db48-4b93-b072-852875d326e5,A_NOT_APPROVED,Flower Child,118.56,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3ad18125-648f-4483-bfdd-21c95e85d32d,A_NOT_APPROVED,Boulevard Cafe Catering,466.3,Awaiting approval,Approve transaction
+P2,3ad18125-648f-4483-bfdd-21c95e85d32d,A_NOT_APPROVED,Boulevard Cafe Catering,466.3,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,82650cd7-3290-4cb2-b9c5-3f2b944a0403,A_NOT_APPROVED,The Watermark Hotel,332.55,Awaiting approval,Attach receipt
+P1,82650cd7-3290-4cb2-b9c5-3f2b944a0403,A_NOT_APPROVED,The Watermark Hotel,332.55,Awaiting approval,Approve transaction
+P2,82650cd7-3290-4cb2-b9c5-3f2b944a0403,A_NOT_APPROVED,The Watermark Hotel,332.55,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c6d881d1-3849-4fca-9f62-35a1ad109a84,A_NOT_APPROVED,The Watermark Hotel,5.5,Awaiting approval,Approve transaction
+P2,c6d881d1-3849-4fca-9f62-35a1ad109a84,A_NOT_APPROVED,The Watermark Hotel,5.5,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,769d79f5-d559-4f4a-8216-66eea3f1bcce,A_NOT_APPROVED,The Watermark Hotel,264.54,Awaiting approval,Attach receipt
+P1,769d79f5-d559-4f4a-8216-66eea3f1bcce,A_NOT_APPROVED,The Watermark Hotel,264.54,Awaiting approval,Add memo
+P1,769d79f5-d559-4f4a-8216-66eea3f1bcce,A_NOT_APPROVED,The Watermark Hotel,264.54,Awaiting approval,Approve transaction
+P2,769d79f5-d559-4f4a-8216-66eea3f1bcce,A_NOT_APPROVED,The Watermark Hotel,264.54,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,eff14e91-2aed-46c0-8c94-99d659305b36,A_NOT_APPROVED,Capital One,6,Awaiting approval,Approve transaction
+P2,eff14e91-2aed-46c0-8c94-99d659305b36,A_NOT_APPROVED,Capital One,6,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4c156271-2178-4c6f-a7c0-7903d8071e26,A_NOT_APPROVED,Colpark Loc 916,60,Awaiting approval,Approve transaction
+P2,4c156271-2178-4c6f-a7c0-7903d8071e26,A_NOT_APPROVED,Colpark Loc 916,60,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,46e8cb2d-9c9e-463e-a8c3-bddf74b89fac,A_NOT_APPROVED,Atlassian,73,Awaiting approval,Approve transaction
+P2,46e8cb2d-9c9e-463e-a8c3-bddf74b89fac,A_NOT_APPROVED,Atlassian,73,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,079b9fe0-fee2-4c22-8e71-21bfacf61791,A_NOT_APPROVED,Zaytinya,503.04,Awaiting approval,Approve transaction
+P2,079b9fe0-fee2-4c22-8e71-21bfacf61791,A_NOT_APPROVED,Zaytinya,503.04,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9e8de119-313a-44e4-9d66-c8d6358c629b,A_NOT_APPROVED,Uber,64.29,Awaiting approval,Approve transaction
+P2,9e8de119-313a-44e4-9d66-c8d6358c629b,A_NOT_APPROVED,Uber,64.29,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,aeb6384b-f709-43d6-b48f-a04b84875c1c,A_NOT_APPROVED,Capital One Arena,88.13,Awaiting approval,Attach receipt
+P1,aeb6384b-f709-43d6-b48f-a04b84875c1c,A_NOT_APPROVED,Capital One Arena,88.13,Awaiting approval,Approve transaction
+P2,aeb6384b-f709-43d6-b48f-a04b84875c1c,A_NOT_APPROVED,Capital One Arena,88.13,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b0fc85c3-eded-4e35-b75f-28375574c019,A_NOT_APPROVED,Courtyard by Marriott,490.38,Awaiting approval,Approve transaction
+P2,b0fc85c3-eded-4e35-b75f-28375574c019,A_NOT_APPROVED,Courtyard by Marriott,490.38,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,41b2c6ba-0858-4c6b-a1d4-628bc5df0618,A_NOT_APPROVED,Fedex,43.1,Awaiting approval,Approve transaction
+P2,41b2c6ba-0858-4c6b-a1d4-628bc5df0618,A_NOT_APPROVED,Fedex,43.1,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5550ebcd-aa6e-4f26-bbe6-d2ecb6b834c1,A_NOT_APPROVED,Shotted Specialty Coffee,7.42,Awaiting approval,Approve transaction
+P2,5550ebcd-aa6e-4f26-bbe6-d2ecb6b834c1,A_NOT_APPROVED,Shotted Specialty Coffee,7.42,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,741e7246-c2b3-43e9-ae9f-e193c65fd7e3,A_NOT_APPROVED,Gusto Farm to Street,17.62,Awaiting approval,Approve transaction
+P2,741e7246-c2b3-43e9-ae9f-e193c65fd7e3,A_NOT_APPROVED,Gusto Farm to Street,17.62,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,da8c872b-483a-4d3e-af9f-398d50556602,A_NOT_APPROVED,American Airlines,1971.8,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,da8c872b-483a-4d3e-af9f-398d50556602,A_NOT_APPROVED,American Airlines,1971.8,Awaiting approval,Add memo
+P1,da8c872b-483a-4d3e-af9f-398d50556602,A_NOT_APPROVED,American Airlines,1971.8,Awaiting approval,Approve transaction
+P2,da8c872b-483a-4d3e-af9f-398d50556602,A_NOT_APPROVED,American Airlines,1971.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1a9beb01-2a60-4abb-854a-3c4398893d25,A_NOT_APPROVED,Tysons Tower,8,Awaiting approval,Approve transaction
+P2,1a9beb01-2a60-4abb-854a-3c4398893d25,A_NOT_APPROVED,Tysons Tower,8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,337f7cd2-aa9b-4a87-a24b-fb376fc4dcba,A_NOT_APPROVED,Southwest Airlines,181.4,Awaiting approval,Approve transaction
+P2,337f7cd2-aa9b-4a87-a24b-fb376fc4dcba,A_NOT_APPROVED,Southwest Airlines,181.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b4a9d884-c64d-4644-8aa8-38f5abca18af,A_NOT_APPROVED,Uber,70.85,Awaiting approval,Approve transaction
+P2,b4a9d884-c64d-4644-8aa8-38f5abca18af,A_NOT_APPROVED,Uber,70.85,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,72857ee4-9032-4529-ac9d-324ad7de5c4e,A_NOT_APPROVED,Loews Hotels,628.89,Awaiting approval,Attach receipt
+P1,72857ee4-9032-4529-ac9d-324ad7de5c4e,A_NOT_APPROVED,Loews Hotels,628.89,Awaiting approval,Add memo
+P1,72857ee4-9032-4529-ac9d-324ad7de5c4e,A_NOT_APPROVED,Loews Hotels,628.89,Awaiting approval,Approve transaction
+P2,72857ee4-9032-4529-ac9d-324ad7de5c4e,A_NOT_APPROVED,Loews Hotels,628.89,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,71ddcb1f-f98f-44e2-96ec-4ce9a0a0e5ff,A_NOT_APPROVED,Verified First,561.08,Awaiting approval,Approve transaction
+P2,71ddcb1f-f98f-44e2-96ec-4ce9a0a0e5ff,A_NOT_APPROVED,Verified First,561.08,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,7593e15a-e608-4bf0-bc2e-07243a61f6eb,A_NOT_APPROVED,Uber,38.94,Awaiting approval,Approve transaction
+P2,7593e15a-e608-4bf0-bc2e-07243a61f6eb,A_NOT_APPROVED,Uber,38.94,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,666815a1-0b46-4690-b8cb-08b9a8a9281b,A_NOT_APPROVED,The Heathman Hotel,177.01,Awaiting approval,Approve transaction
+P2,666815a1-0b46-4690-b8cb-08b9a8a9281b,A_NOT_APPROVED,The Heathman Hotel,177.01,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,87fd107f-d9ca-4b8f-b746-9d6597d9b93a,A_NOT_APPROVED,Black and White Coffee Roasters,5.41,Awaiting approval,Approve transaction
+P2,87fd107f-d9ca-4b8f-b746-9d6597d9b93a,A_NOT_APPROVED,Black and White Coffee Roasters,5.41,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5812cfe6-f4e8-414b-b502-7d3617d8ce67,A_NOT_APPROVED,Mera Rd Llc Restaurant,11.37,Awaiting approval,Approve transaction
+P2,5812cfe6-f4e8-414b-b502-7d3617d8ce67,A_NOT_APPROVED,Mera Rd Llc Restaurant,11.37,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3527bea1-8ad5-451b-ab3e-c5a82e29448e,A_NOT_APPROVED,Curb Taxi App,14.34,Awaiting approval,Approve transaction
+P2,3527bea1-8ad5-451b-ab3e-c5a82e29448e,A_NOT_APPROVED,Curb Taxi App,14.34,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,331c61fe-186b-4959-bfac-4028b5841caf,A_NOT_APPROVED,"ITC Kohenur, a Luxury Collection Hotel, Hyderabad",72.17,Awaiting approval,Approve transaction
+P2,331c61fe-186b-4959-bfac-4028b5841caf,A_NOT_APPROVED,"ITC Kohenur, a Luxury Collection Hotel, Hyderabad",72.17,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e51d2657-e6d5-4c88-a3c3-24d9119ff49c,A_NOT_APPROVED,Java Man Coffee,53.28,Awaiting approval,Approve transaction
+P2,e51d2657-e6d5-4c88-a3c3-24d9119ff49c,A_NOT_APPROVED,Java Man Coffee,53.28,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cf8cb933-39a2-4930-b9e5-a979d1ccfe18,A_NOT_APPROVED,Air Canada,511.19,Awaiting approval,Attach receipt
+P1,cf8cb933-39a2-4930-b9e5-a979d1ccfe18,A_NOT_APPROVED,Air Canada,511.19,Awaiting approval,Add memo
+P1,cf8cb933-39a2-4930-b9e5-a979d1ccfe18,A_NOT_APPROVED,Air Canada,511.19,Awaiting approval,Approve transaction
+P2,cf8cb933-39a2-4930-b9e5-a979d1ccfe18,A_NOT_APPROVED,Air Canada,511.19,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e4c1ab82-fa24-4cf6-a033-26cff09f7f3e,A_NOT_APPROVED,Delta Air Lines,333.4,Awaiting approval,Approve transaction
+P2,e4c1ab82-fa24-4cf6-a033-26cff09f7f3e,A_NOT_APPROVED,Delta Air Lines,333.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e697f319-c635-474b-b5b2-e53de1211686,A_NOT_APPROVED,Delta Air Lines,28.13,Awaiting approval,Approve transaction
+P2,e697f319-c635-474b-b5b2-e53de1211686,A_NOT_APPROVED,Delta Air Lines,28.13,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f730375c-ff3e-4ae0-9f72-79df5da2f88a,A_NOT_APPROVED,NYC Taxi,26.9,Awaiting approval,Approve transaction
+P2,f730375c-ff3e-4ae0-9f72-79df5da2f88a,A_NOT_APPROVED,NYC Taxi,26.9,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,aa72bdfe-b240-459f-b00e-b950f743a1d1,A_NOT_APPROVED,Culture Espresso,10.86,Awaiting approval,Approve transaction
+P2,aa72bdfe-b240-459f-b00e-b950f743a1d1,A_NOT_APPROVED,Culture Espresso,10.86,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cbccf981-4dd8-4d49-8b61-277730bc185c,A_NOT_APPROVED,Marriott,369.42,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,cbccf981-4dd8-4d49-8b61-277730bc185c,A_NOT_APPROVED,Marriott,369.42,Awaiting approval,Approve transaction
+P2,cbccf981-4dd8-4d49-8b61-277730bc185c,A_NOT_APPROVED,Marriott,369.42,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,24f6ff44-3ad0-4684-a85d-7dbcbf1c78ab,A_NOT_APPROVED,Corellium,800,Awaiting approval,Approve transaction
+P2,24f6ff44-3ad0-4684-a85d-7dbcbf1c78ab,A_NOT_APPROVED,Corellium,800,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2b420ed6-1ba3-4176-ad21-c82c0360e859,A_NOT_APPROVED,Whole Foods Market,29.2,Awaiting approval,Approve transaction
+P2,2b420ed6-1ba3-4176-ad21-c82c0360e859,A_NOT_APPROVED,Whole Foods Market,29.2,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,87e32228-5ec7-4902-9159-0e796702e99e,A_NOT_APPROVED,Uber,135.65,Awaiting approval,Attach receipt
+P1,87e32228-5ec7-4902-9159-0e796702e99e,A_NOT_APPROVED,Uber,135.65,Awaiting approval,Add memo
+P1,87e32228-5ec7-4902-9159-0e796702e99e,A_NOT_APPROVED,Uber,135.65,Awaiting approval,Approve transaction
+P2,87e32228-5ec7-4902-9159-0e796702e99e,A_NOT_APPROVED,Uber,135.65,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5425d296-a127-4e15-98b1-79fcb387aa7b,A_NOT_APPROVED,The Heathman Hotel,21.63,Awaiting approval,Approve transaction
+P2,5425d296-a127-4e15-98b1-79fcb387aa7b,A_NOT_APPROVED,The Heathman Hotel,21.63,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f93c70a0-0804-46af-bde4-05df69c56b4d,A_NOT_APPROVED,Uber,38.94,Awaiting approval,Approve transaction
+P2,f93c70a0-0804-46af-bde4-05df69c56b4d,A_NOT_APPROVED,Uber,38.94,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a5ac4427-5358-4180-8eef-57565ded7046,A_NOT_APPROVED,McDonald's,11.6,Awaiting approval,Approve transaction
+P2,a5ac4427-5358-4180-8eef-57565ded7046,A_NOT_APPROVED,McDonald's,11.6,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b1c2a0c8-988e-4c72-951f-e90ee01134c0,A_NOT_APPROVED,Aerofleet Cab Services,53.02,Awaiting approval,Approve transaction
+P2,b1c2a0c8-988e-4c72-951f-e90ee01134c0,A_NOT_APPROVED,Aerofleet Cab Services,53.02,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,037ea64f-d8a1-499f-bb0c-68824eec0852,A_NOT_APPROVED,Sfo Parkingcentra,59,Awaiting approval,Approve transaction
+P2,037ea64f-d8a1-499f-bb0c-68824eec0852,A_NOT_APPROVED,Sfo Parkingcentra,59,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,fd3538a3-9244-45dd-b7c4-84b45e39510e,A_NOT_APPROVED,Genspark,20,Awaiting approval,Approve transaction
+P2,fd3538a3-9244-45dd-b7c4-84b45e39510e,A_NOT_APPROVED,Genspark,20,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,6346319b-0036-4f4d-a732-ea9a08656b05,A_NOT_APPROVED,MTA,3,Awaiting approval,Approve transaction
+P2,6346319b-0036-4f4d-a732-ea9a08656b05,A_NOT_APPROVED,MTA,3,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,7d5e3b55-47cc-43f4-83ce-45442e3dda85,A_NOT_APPROVED,Microsoft Office / Azure,151.2,Awaiting approval,Approve transaction
+P2,7d5e3b55-47cc-43f4-83ce-45442e3dda85,A_NOT_APPROVED,Microsoft Office / Azure,151.2,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5c116f74-7284-4392-919a-aaf7bef9892d,A_NOT_APPROVED,Salt Indian Restaurant Bar & Grill,123.5,Awaiting approval,Approve transaction
+P2,5c116f74-7284-4392-919a-aaf7bef9892d,A_NOT_APPROVED,Salt Indian Restaurant Bar & Grill,123.5,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d2501c12-dfdb-4fa8-bfd1-4c61a6894463,A_NOT_APPROVED,Microsoft Office / Azure,0.49,Awaiting approval,Approve transaction
+P2,d2501c12-dfdb-4fa8-bfd1-4c61a6894463,A_NOT_APPROVED,Microsoft Office / Azure,0.49,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e71bc4ea-2a47-493c-9d83-ca60044d1ea2,A_NOT_APPROVED,Welcomgro Itc Gardenia,33.68,Awaiting approval,Approve transaction
+P2,e71bc4ea-2a47-493c-9d83-ca60044d1ea2,A_NOT_APPROVED,Welcomgro Itc Gardenia,33.68,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b7317eda-4b08-4c99-90df-1e9f874f9a07,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P2,b7317eda-4b08-4c99-90df-1e9f874f9a07,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,40a9947d-609b-4265-89d4-724f02293a75,A_NOT_APPROVED,Amazon,27.02,Awaiting approval,Approve transaction
+P2,40a9947d-609b-4265-89d4-724f02293a75,A_NOT_APPROVED,Amazon,27.02,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f7b39901-a3ac-4937-86d8-9e549f26688f,A_NOT_APPROVED,BSidesROC,2500,Awaiting approval,Approve transaction
+P2,f7b39901-a3ac-4937-86d8-9e549f26688f,A_NOT_APPROVED,BSidesROC,2500,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0649aff9-388c-4e63-843d-f6bf47c383fc,A_NOT_APPROVED,Sonarsource,32,Awaiting approval,Approve transaction
+P2,0649aff9-388c-4e63-843d-f6bf47c383fc,A_NOT_APPROVED,Sonarsource,32,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,7bad0ad4-7cf1-4168-bd1a-c090b42f6c3d,A_NOT_APPROVED,Dufry,23.97,Awaiting approval,Approve transaction
+P2,7bad0ad4-7cf1-4168-bd1a-c090b42f6c3d,A_NOT_APPROVED,Dufry,23.97,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f6028f6c-59b5-43d3-a5bb-ae6599799679,A_NOT_APPROVED,Delta Air Lines,143.4,Awaiting approval,Approve transaction
+P2,f6028f6c-59b5-43d3-a5bb-ae6599799679,A_NOT_APPROVED,Delta Air Lines,143.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,efb1b14e-7d92-40c4-9beb-3f54a4026f91,A_NOT_APPROVED,Southwest Airlines,215.4,Awaiting approval,Approve transaction
+P2,efb1b14e-7d92-40c4-9beb-3f54a4026f91,A_NOT_APPROVED,Southwest Airlines,215.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,309888a8-11be-4415-8818-84ca60adff03,A_NOT_APPROVED,Microsoft Office / Azure,11340,Awaiting approval,Approve transaction
+P2,309888a8-11be-4415-8818-84ca60adff03,A_NOT_APPROVED,Microsoft Office / Azure,11340,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,fea0de6b-85c2-4b49-9cb6-d18674c9b907,A_NOT_APPROVED,Basta Trattoria,18.98,Awaiting approval,Approve transaction
+P2,fea0de6b-85c2-4b49-9cb6-d18674c9b907,A_NOT_APPROVED,Basta Trattoria,18.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,26e7c2b5-33a5-4816-bf48-6762d6b4c3ee,A_NOT_APPROVED,MTA,3,Awaiting approval,Approve transaction
+P2,26e7c2b5-33a5-4816-bf48-6762d6b4c3ee,A_NOT_APPROVED,MTA,3,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ec73ea3a-551e-48cf-bacd-259df0fa3f4c,A_NOT_APPROVED,Runn,196,Awaiting approval,Approve transaction
+P2,ec73ea3a-551e-48cf-bacd-259df0fa3f4c,A_NOT_APPROVED,Runn,196,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,23087f55-f80f-4e04-9a81-1b66e031bf84,A_NOT_APPROVED,Accurate Backgroun,52.89,Awaiting approval,Approve transaction
+P2,23087f55-f80f-4e04-9a81-1b66e031bf84,A_NOT_APPROVED,Accurate Backgroun,52.89,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,36d0f20d-0df2-46f1-b836-43dd5caed717,A_NOT_APPROVED,Anthropic,125,Awaiting approval,Approve transaction
+P2,36d0f20d-0df2-46f1-b836-43dd5caed717,A_NOT_APPROVED,Anthropic,125,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,16f3e3b2-a377-485c-abf6-b15566ef9fca,A_NOT_APPROVED,Anthropic,50,Awaiting approval,Approve transaction
+P2,16f3e3b2-a377-485c-abf6-b15566ef9fca,A_NOT_APPROVED,Anthropic,50,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d614ab10-5bf9-4b93-b246-ec5d9d991ab4,A_NOT_APPROVED,Biltmore Hotel And Suites,369,Awaiting approval,Approve transaction
+P2,d614ab10-5bf9-4b93-b246-ec5d9d991ab4,A_NOT_APPROVED,Biltmore Hotel And Suites,369,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f2990f89-62af-41f3-9b3d-6b9d7e265ce4,A_NOT_APPROVED,zTrip,43.93,Awaiting approval,Approve transaction
+P2,f2990f89-62af-41f3-9b3d-6b9d7e265ce4,A_NOT_APPROVED,zTrip,43.93,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,894b5a7a-7724-4e87-8e88-488df84103be,A_NOT_APPROVED,Microsoft Office / Azure,6.3,Awaiting approval,Approve transaction
+P2,894b5a7a-7724-4e87-8e88-488df84103be,A_NOT_APPROVED,Microsoft Office / Azure,6.3,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b0752956-2c04-4ff4-a325-0bbce4c43155,A_NOT_APPROVED,Avalara,5.96,Awaiting approval,Approve transaction
+P2,b0752956-2c04-4ff4-a325-0bbce4c43155,A_NOT_APPROVED,Avalara,5.96,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,50fec491-48ee-4ddf-8277-444cd98eb13f,A_NOT_APPROVED,Canva,50,Awaiting approval,Approve transaction
+P2,50fec491-48ee-4ddf-8277-444cd98eb13f,A_NOT_APPROVED,Canva,50,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,42cf2ae9-4076-4f30-a482-d86e00fa4616,A_NOT_APPROVED,Alaska Airlines,325.4,Awaiting approval,Approve transaction
+P2,42cf2ae9-4076-4f30-a482-d86e00fa4616,A_NOT_APPROVED,Alaska Airlines,325.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4455fe37-fe2d-4ebe-9708-a1ea6aeffd8d,A_NOT_APPROVED,Southwest Airlines,185.4,Awaiting approval,Approve transaction
+P2,4455fe37-fe2d-4ebe-9708-a1ea6aeffd8d,A_NOT_APPROVED,Southwest Airlines,185.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c5da59b3-4fa7-4403-ac23-9f73b792b198,A_NOT_APPROVED,Alaska Airlines,343.4,Awaiting approval,Approve transaction
+P2,c5da59b3-4fa7-4403-ac23-9f73b792b198,A_NOT_APPROVED,Alaska Airlines,343.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,57020a8f-6c62-4d01-a844-313a9e027aed,A_NOT_APPROVED,Microsoft Office / Azure,7281.93,Awaiting approval,Approve transaction
+P2,57020a8f-6c62-4d01-a844-313a9e027aed,A_NOT_APPROVED,Microsoft Office / Azure,7281.93,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1f9116ba-3a19-4a50-83e8-a53d11636218,A_NOT_APPROVED,Microsoft Office / Azure,8.28,Awaiting approval,Approve transaction
+P2,1f9116ba-3a19-4a50-83e8-a53d11636218,A_NOT_APPROVED,Microsoft Office / Azure,8.28,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,452632b1-d04f-4aaa-a5d6-f70a3210f419,A_NOT_APPROVED,Microsoft Office / Azure,1919.09,Awaiting approval,Approve transaction
+P2,452632b1-d04f-4aaa-a5d6-f70a3210f419,A_NOT_APPROVED,Microsoft Office / Azure,1919.09,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d6b0a910-495a-41a4-9e5f-f1d68ec0935c,A_NOT_APPROVED,Slack,10123.67,Awaiting approval,Approve transaction
+P2,d6b0a910-495a-41a4-9e5f-f1d68ec0935c,A_NOT_APPROVED,Slack,10123.67,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a2eef8d7-cbc5-498a-8b57-fd85d12bcaa1,A_NOT_APPROVED,Lner Web Sales,189.9,Awaiting approval,Approve transaction
+P2,a2eef8d7-cbc5-498a-8b57-fd85d12bcaa1,A_NOT_APPROVED,Lner Web Sales,189.9,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,7a15d9ef-aa37-4f67-b166-cbe3d078242d,A_NOT_APPROVED,American Airlines,173.4,Awaiting approval,Approve transaction
+P2,7a15d9ef-aa37-4f67-b166-cbe3d078242d,A_NOT_APPROVED,American Airlines,173.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ff8884bc-6bb5-4e2b-99b3-7503c2a05f90,A_NOT_APPROVED,Delta Air Lines,757.8,Awaiting approval,Approve transaction
+P2,ff8884bc-6bb5-4e2b-99b3-7503c2a05f90,A_NOT_APPROVED,Delta Air Lines,757.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,13c19d07-c26f-4bde-9e27-fec8376d7a48,A_NOT_APPROVED,Alaska Airlines,188.2,Awaiting approval,Approve transaction
+P2,13c19d07-c26f-4bde-9e27-fec8376d7a48,A_NOT_APPROVED,Alaska Airlines,188.2,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2bf7c800-4d2b-4bfb-a53f-17d935d3dfd5,A_NOT_APPROVED,Fedex,10.25,Awaiting approval,Approve transaction
+P2,2bf7c800-4d2b-4bfb-a53f-17d935d3dfd5,A_NOT_APPROVED,Fedex,10.25,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f0755978-b602-4bd5-954c-5e6aa8fdecfb,A_NOT_APPROVED,PagerDuty,150,Awaiting approval,Approve transaction
+P2,f0755978-b602-4bd5-954c-5e6aa8fdecfb,A_NOT_APPROVED,PagerDuty,150,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0690a5f0-556c-42c0-9873-d906dec1a0c7,A_NOT_APPROVED,Smartsheet,96,Awaiting approval,Approve transaction
+P2,0690a5f0-556c-42c0-9873-d906dec1a0c7,A_NOT_APPROVED,Smartsheet,96,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bc236742-c51a-4dfc-aed1-a3f4fad62778,A_NOT_APPROVED,Dorset London West Limite,184.43,Awaiting approval,Approve transaction
+P2,bc236742-c51a-4dfc-aed1-a3f4fad62778,A_NOT_APPROVED,Dorset London West Limite,184.43,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,6c852b39-f1b6-455d-8013-5f25d8cc1a80,A_NOT_APPROVED,Uber,16.91,Awaiting approval,Approve transaction
+P2,6c852b39-f1b6-455d-8013-5f25d8cc1a80,A_NOT_APPROVED,Uber,16.91,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,24a3bf84-3d2e-4a6c-8812-de298f4ca161,A_NOT_APPROVED,Amazon,14.99,Awaiting approval,Approve transaction
+P2,24a3bf84-3d2e-4a6c-8812-de298f4ca161,A_NOT_APPROVED,Amazon,14.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0ccb54c2-5482-467a-a37e-a033353bf545,A_NOT_APPROVED,Uber,14.01,Awaiting approval,Approve transaction
+P2,0ccb54c2-5482-467a-a37e-a033353bf545,A_NOT_APPROVED,Uber,14.01,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5b8d271d-4872-4544-8f0b-5750cc608347,A_NOT_APPROVED,Sams Restaurant Restaurant,297.18,Awaiting approval,Approve transaction
+P2,5b8d271d-4872-4544-8f0b-5750cc608347,A_NOT_APPROVED,Sams Restaurant Restaurant,297.18,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b93d0a40-94bf-418b-b3be-82d13d442902,A_NOT_APPROVED,Uber,2.82,Awaiting approval,Approve transaction
+P2,b93d0a40-94bf-418b-b3be-82d13d442902,A_NOT_APPROVED,Uber,2.82,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,781dfea8-2ab2-4f1e-9948-1005243bf55d,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P2,781dfea8-2ab2-4f1e-9948-1005243bf55d,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,61dec3b2-822e-43e9-a805-e81d5cebd8c2,A_NOT_APPROVED,Uber,12.97,Awaiting approval,Approve transaction
+P2,61dec3b2-822e-43e9-a805-e81d5cebd8c2,A_NOT_APPROVED,Uber,12.97,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,110ea83c-16db-48dd-bfe1-e414fbc40f03,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P2,110ea83c-16db-48dd-bfe1-e414fbc40f03,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e742760d-82fc-49e1-9146-65a26280103e,A_NOT_APPROVED,Uber,2.82,Awaiting approval,Approve transaction
+P2,e742760d-82fc-49e1-9146-65a26280103e,A_NOT_APPROVED,Uber,2.82,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,fe0a94b3-a67b-4374-ba2b-9c15ae97beb7,A_NOT_APPROVED,Atlassian,19018.63,Awaiting approval,Approve transaction
+P2,fe0a94b3-a67b-4374-ba2b-9c15ae97beb7,A_NOT_APPROVED,Atlassian,19018.63,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,22ebea13-8108-4edc-8fa1-f3496c115b48,A_NOT_APPROVED,Microsoft Store,6165,Awaiting approval,Approve transaction
+P2,22ebea13-8108-4edc-8fa1-f3496c115b48,A_NOT_APPROVED,Microsoft Store,6165,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a917bd62-b177-411e-86d1-d0c337fe5e9f,A_NOT_APPROVED,Fedex,10.25,Awaiting approval,Approve transaction
+P2,a917bd62-b177-411e-86d1-d0c337fe5e9f,A_NOT_APPROVED,Fedex,10.25,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1d508f25-845e-4e06-b6ae-1bcc143f914c,A_NOT_APPROVED,Boots,7.05,Awaiting approval,Approve transaction
+P2,1d508f25-845e-4e06-b6ae-1bcc143f914c,A_NOT_APPROVED,Boots,7.05,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,96f34ba6-c13a-4057-a4b0-14b4c44d6481,A_NOT_APPROVED,Starbucks,5.84,Awaiting approval,Approve transaction
+P2,96f34ba6-c13a-4057-a4b0-14b4c44d6481,A_NOT_APPROVED,Starbucks,5.84,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2d50ad21-aad0-4689-a09b-d8eb60636c8b,A_NOT_APPROVED,Courtyard by Marriott,159.34,Awaiting approval,Attach receipt
+P1,2d50ad21-aad0-4689-a09b-d8eb60636c8b,A_NOT_APPROVED,Courtyard by Marriott,159.34,Awaiting approval,Add memo
+P1,2d50ad21-aad0-4689-a09b-d8eb60636c8b,A_NOT_APPROVED,Courtyard by Marriott,159.34,Awaiting approval,Approve transaction
+P2,2d50ad21-aad0-4689-a09b-d8eb60636c8b,A_NOT_APPROVED,Courtyard by Marriott,159.34,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,dc0d75b2-612a-4132-a924-323319e6f9c8,A_NOT_APPROVED,Hilton Hotels,278.37,Awaiting approval,Approve transaction
+P2,dc0d75b2-612a-4132-a924-323319e6f9c8,A_NOT_APPROVED,Hilton Hotels,278.37,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3d7287da-cee3-4ca0-a5b7-b7211cf5fae1,A_NOT_APPROVED,Starbucks,3.99,Awaiting approval,Approve transaction
+P2,3d7287da-cee3-4ca0-a5b7-b7211cf5fae1,A_NOT_APPROVED,Starbucks,3.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c0eba4df-7d02-4f07-8744-754e06b79bec,A_NOT_APPROVED,UPS,51.59,Awaiting approval,Approve transaction
+P2,c0eba4df-7d02-4f07-8744-754e06b79bec,A_NOT_APPROVED,UPS,51.59,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bb5f6678-a25c-483a-a5d3-24a5db7e5cd9,A_NOT_APPROVED,Jak’s Authentic Indian & Modern Vibe,61.57,Awaiting approval,Approve transaction
+P2,bb5f6678-a25c-483a-a5d3-24a5db7e5cd9,A_NOT_APPROVED,Jak’s Authentic Indian & Modern Vibe,61.57,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d59e576e-8a41-4160-bb65-f3e610165e58,A_NOT_APPROVED,Dunkin' Donuts,5.39,Awaiting approval,Approve transaction
+P2,d59e576e-8a41-4160-bb65-f3e610165e58,A_NOT_APPROVED,Dunkin' Donuts,5.39,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,77fbbef0-30cc-44a7-9ead-b853d4105981,A_NOT_APPROVED,Shellis News,18.7,Awaiting approval,Approve transaction
+P2,77fbbef0-30cc-44a7-9ead-b853d4105981,A_NOT_APPROVED,Shellis News,18.7,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e5602cb7-8afb-4e73-a8df-20498cc08e01,A_NOT_APPROVED,Delta Hotels By Marriott,12.17,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,e5602cb7-8afb-4e73-a8df-20498cc08e01,A_NOT_APPROVED,Delta Hotels By Marriott,12.17,Awaiting approval,Approve transaction
+P2,e5602cb7-8afb-4e73-a8df-20498cc08e01,A_NOT_APPROVED,Delta Hotels By Marriott,12.17,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,519e5b5d-5428-4fcd-8617-2cd6947ea476,A_NOT_APPROVED,American Airlines,373.4,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,519e5b5d-5428-4fcd-8617-2cd6947ea476,A_NOT_APPROVED,American Airlines,373.4,Awaiting approval,Add memo
+P1,519e5b5d-5428-4fcd-8617-2cd6947ea476,A_NOT_APPROVED,American Airlines,373.4,Awaiting approval,Approve transaction
+P2,519e5b5d-5428-4fcd-8617-2cd6947ea476,A_NOT_APPROVED,American Airlines,373.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,929a878c-0f97-4891-8705-0bcf498682f7,A_NOT_APPROVED,City of Monticello,30,Awaiting approval,Approve transaction
+P2,929a878c-0f97-4891-8705-0bcf498682f7,A_NOT_APPROVED,City of Monticello,30,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0e3e24ae-0959-4241-a9f9-0ed1235f3403,A_NOT_APPROVED,American Airlines,421.4,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,0e3e24ae-0959-4241-a9f9-0ed1235f3403,A_NOT_APPROVED,American Airlines,421.4,Awaiting approval,Add memo
+P1,0e3e24ae-0959-4241-a9f9-0ed1235f3403,A_NOT_APPROVED,American Airlines,421.4,Awaiting approval,Approve transaction
+P2,0e3e24ae-0959-4241-a9f9-0ed1235f3403,A_NOT_APPROVED,American Airlines,421.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c575c983-7572-47d6-8782-5549414622b7,A_NOT_APPROVED,Fedex,11.9,Awaiting approval,Approve transaction
+P2,c575c983-7572-47d6-8782-5549414622b7,A_NOT_APPROVED,Fedex,11.9,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,80c91523-3dd2-4875-9bd1-f9ed0bdbeb25,A_NOT_APPROVED,Tres Gringos,16.22,Awaiting approval,Approve transaction
+P2,80c91523-3dd2-4875-9bd1-f9ed0bdbeb25,A_NOT_APPROVED,Tres Gringos,16.22,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c4fd1412-9afc-40e4-95ab-b0dfb3432d6f,A_NOT_APPROVED,American Airlines,7392.59,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,c4fd1412-9afc-40e4-95ab-b0dfb3432d6f,A_NOT_APPROVED,American Airlines,7392.59,Awaiting approval,Approve transaction
+P2,c4fd1412-9afc-40e4-95ab-b0dfb3432d6f,A_NOT_APPROVED,American Airlines,7392.59,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,98104761-e684-43d7-9a3f-cdbc6ffff7ff,A_NOT_APPROVED,American Airlines,474.4,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,98104761-e684-43d7-9a3f-cdbc6ffff7ff,A_NOT_APPROVED,American Airlines,474.4,Awaiting approval,Add memo
+P1,98104761-e684-43d7-9a3f-cdbc6ffff7ff,A_NOT_APPROVED,American Airlines,474.4,Awaiting approval,Approve transaction
+P2,98104761-e684-43d7-9a3f-cdbc6ffff7ff,A_NOT_APPROVED,American Airlines,474.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9a6b3b57-65e6-40d3-a6ec-7ec5ae5129db,A_NOT_APPROVED,Fedex,47.49,Awaiting approval,Approve transaction
+P2,9a6b3b57-65e6-40d3-a6ec-7ec5ae5129db,A_NOT_APPROVED,Fedex,47.49,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b6b0b589-3e7b-4084-9ed6-4b943e3065ec,A_NOT_APPROVED,Fedex,57.21,Awaiting approval,Approve transaction
+P2,b6b0b589-3e7b-4084-9ed6-4b943e3065ec,A_NOT_APPROVED,Fedex,57.21,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,76610cae-c946-4f6a-9656-3316f11ca347,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P2,76610cae-c946-4f6a-9656-3316f11ca347,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,753a56a2-1097-41fa-8275-5cff4bc0becf,A_NOT_APPROVED,Pti Moic Chicago,77.76,Awaiting approval,Attach receipt
+P1,753a56a2-1097-41fa-8275-5cff4bc0becf,A_NOT_APPROVED,Pti Moic Chicago,77.76,Awaiting approval,Approve transaction
+P2,753a56a2-1097-41fa-8275-5cff4bc0becf,A_NOT_APPROVED,Pti Moic Chicago,77.76,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,43e92c66-fea8-4cd9-a6b9-db4b165d42b5,A_NOT_APPROVED,RGN Management Limited Partnership,121.6,Awaiting approval,Attach receipt
+P1,43e92c66-fea8-4cd9-a6b9-db4b165d42b5,A_NOT_APPROVED,RGN Management Limited Partnership,121.6,Awaiting approval,Add memo
+P1,43e92c66-fea8-4cd9-a6b9-db4b165d42b5,A_NOT_APPROVED,RGN Management Limited Partnership,121.6,Awaiting approval,Approve transaction
+P2,43e92c66-fea8-4cd9-a6b9-db4b165d42b5,A_NOT_APPROVED,RGN Management Limited Partnership,121.6,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3d203255-2d7e-4432-9155-46bca51c870d,A_NOT_APPROVED,Figma,22.58,Awaiting approval,Approve transaction
+P2,3d203255-2d7e-4432-9155-46bca51c870d,A_NOT_APPROVED,Figma,22.58,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ab7c4aa8-193d-496c-a97c-6eb98576b1cf,A_NOT_APPROVED,Microsoft Office / Azure,14.4,Awaiting approval,Approve transaction
+P2,ab7c4aa8-193d-496c-a97c-6eb98576b1cf,A_NOT_APPROVED,Microsoft Office / Azure,14.4,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0a073fd9-4579-41cc-bce0-fc23fd34f005,A_NOT_APPROVED,Microsoft Office / Azure,7980,Awaiting approval,Approve transaction
+P2,0a073fd9-4579-41cc-bce0-fc23fd34f005,A_NOT_APPROVED,Microsoft Office / Azure,7980,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8dfbe289-0ecc-40d6-bd41-5b71f6051348,A_NOT_APPROVED,Regus,71,Awaiting approval,Approve transaction
+P2,8dfbe289-0ecc-40d6-bd41-5b71f6051348,A_NOT_APPROVED,Regus,71,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,501a0e4a-3a48-4e8a-af49-ac3344886f27,A_NOT_APPROVED,Regus,266.31,Awaiting approval,Attach receipt
+P1,501a0e4a-3a48-4e8a-af49-ac3344886f27,A_NOT_APPROVED,Regus,266.31,Awaiting approval,Add memo
+P1,501a0e4a-3a48-4e8a-af49-ac3344886f27,A_NOT_APPROVED,Regus,266.31,Awaiting approval,Approve transaction
+P2,501a0e4a-3a48-4e8a-af49-ac3344886f27,A_NOT_APPROVED,Regus,266.31,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,c38e3946-1821-459d-848a-0009f8f5d340,A_NOT_APPROVED,RGN Management Limited Partnership,211.27,Awaiting approval,Attach receipt
+P1,c38e3946-1821-459d-848a-0009f8f5d340,A_NOT_APPROVED,RGN Management Limited Partnership,211.27,Awaiting approval,Add memo
+P1,c38e3946-1821-459d-848a-0009f8f5d340,A_NOT_APPROVED,RGN Management Limited Partnership,211.27,Awaiting approval,Approve transaction
+P2,c38e3946-1821-459d-848a-0009f8f5d340,A_NOT_APPROVED,RGN Management Limited Partnership,211.27,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5a86c290-875b-4bc3-97df-e8c4105aa2ea,A_NOT_APPROVED,Fedex,28.55,Awaiting approval,Approve transaction
+P2,5a86c290-875b-4bc3-97df-e8c4105aa2ea,A_NOT_APPROVED,Fedex,28.55,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,eeca6861-c4b6-4b1e-a0ac-852cf4c238e8,A_NOT_APPROVED,Amazon,14.95,Awaiting approval,Approve transaction
+P2,eeca6861-c4b6-4b1e-a0ac-852cf4c238e8,A_NOT_APPROVED,Amazon,14.95,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,7b1b6a18-e2c8-4e5d-ac83-03f4f9d19cff,A_NOT_APPROVED,Jamf,628,Awaiting approval,Approve transaction
+P2,7b1b6a18-e2c8-4e5d-ac83-03f4f9d19cff,A_NOT_APPROVED,Jamf,628,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f293f5c5-c54a-4f06-aaa1-8bc6a5499d2b,A_NOT_APPROVED,Uber,21.23,Awaiting approval,Approve transaction
+P2,f293f5c5-c54a-4f06-aaa1-8bc6a5499d2b,A_NOT_APPROVED,Uber,21.23,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,933afcb4-e2df-49c6-ab0d-f9686ce18572,A_NOT_APPROVED,IN N OUT SMOKE SHOP & CONVENIENCE,12.35,Awaiting approval,Approve transaction
+P2,933afcb4-e2df-49c6-ab0d-f9686ce18572,A_NOT_APPROVED,IN N OUT SMOKE SHOP & CONVENIENCE,12.35,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,38970728-13cb-475a-a551-697f5457a8a9,A_NOT_APPROVED,Uber,13.99,Awaiting approval,Approve transaction
+P2,38970728-13cb-475a-a551-697f5457a8a9,A_NOT_APPROVED,Uber,13.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,fe19524b-7c76-461c-82db-edbee5dc5305,A_NOT_APPROVED,1731 Dca Istore,15.13,Awaiting approval,Approve transaction
+P2,fe19524b-7c76-461c-82db-edbee5dc5305,A_NOT_APPROVED,1731 Dca Istore,15.13,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1da480a2-7294-468f-845c-a64154c5aa24,A_NOT_APPROVED,Great American Bagel Bakery,11.91,Awaiting approval,Approve transaction
+P2,1da480a2-7294-468f-845c-a64154c5aa24,A_NOT_APPROVED,Great American Bagel Bakery,11.91,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1425276e-9e54-43ae-a9d2-73dec7a2e718,A_NOT_APPROVED,SJC T2 Corona Shop,4.89,Awaiting approval,Approve transaction
+P2,1425276e-9e54-43ae-a9d2-73dec7a2e718,A_NOT_APPROVED,SJC T2 Corona Shop,4.89,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,be742687-d80b-4912-b95e-74c00b1d78b5,A_NOT_APPROVED,Uber,43.93,Awaiting approval,Approve transaction
+P2,be742687-d80b-4912-b95e-74c00b1d78b5,A_NOT_APPROVED,Uber,43.93,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2d012b00-9e78-48b7-aeb7-163882c5fb9b,A_NOT_APPROVED,Next Day Display,224.99,Awaiting approval,Approve transaction
+P2,2d012b00-9e78-48b7-aeb7-163882c5fb9b,A_NOT_APPROVED,Next Day Display,224.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b8236bab-bbaf-4502-83ba-ea8877b7ad8e,A_NOT_APPROVED,Village of Schaumburg,123.78,Awaiting approval,Approve transaction
+P2,b8236bab-bbaf-4502-83ba-ea8877b7ad8e,A_NOT_APPROVED,Village of Schaumburg,123.78,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bbd5c953-441e-40e3-87dc-6dedb16b58c2,A_NOT_APPROVED,Cafe Belen,72.37,Awaiting approval,Approve transaction
+P2,bbd5c953-441e-40e3-87dc-6dedb16b58c2,A_NOT_APPROVED,Cafe Belen,72.37,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,29fe51fe-b1c5-4aaa-b3fa-e1b4fde39f44,A_NOT_APPROVED,Pappadeaux Seafood Kitchen,118.41,Awaiting approval,Approve transaction
+P2,29fe51fe-b1c5-4aaa-b3fa-e1b4fde39f44,A_NOT_APPROVED,Pappadeaux Seafood Kitchen,118.41,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,21c8ecd9-f9bb-44e0-8ff4-3123ae414f27,A_NOT_APPROVED,Uber,45.94,Awaiting approval,Approve transaction
+P2,21c8ecd9-f9bb-44e0-8ff4-3123ae414f27,A_NOT_APPROVED,Uber,45.94,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f8af0f43-09b2-4aab-93a9-6425656a6493,A_NOT_APPROVED,Intuit,7.94,Awaiting approval,Approve transaction
+P2,f8af0f43-09b2-4aab-93a9-6425656a6493,A_NOT_APPROVED,Intuit,7.94,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,edbcb465-d8bf-4d58-add4-eec95a40f83e,A_NOT_APPROVED,4imprint,427.9,Awaiting approval,Approve transaction
+P2,edbcb465-d8bf-4d58-add4-eec95a40f83e,A_NOT_APPROVED,4imprint,427.9,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,17156576-0cb6-4472-b03d-65f77bdd4a11,A_NOT_APPROVED,Nick's,534.37,Awaiting approval,Approve transaction
+P2,17156576-0cb6-4472-b03d-65f77bdd4a11,A_NOT_APPROVED,Nick's,534.37,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4fb2574a-c2f1-451f-8231-fdeb3e73119e,A_NOT_APPROVED,Hudson News,4.44,Awaiting approval,Approve transaction
+P2,4fb2574a-c2f1-451f-8231-fdeb3e73119e,A_NOT_APPROVED,Hudson News,4.44,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,052fab04-bc64-4c8d-9ae6-69846c5bd677,A_NOT_APPROVED,First Class Vending Inc.,3.1,Awaiting approval,Approve transaction
+P2,052fab04-bc64-4c8d-9ae6-69846c5bd677,A_NOT_APPROVED,First Class Vending Inc.,3.1,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,226fed44-5132-4efb-a85d-bbf615ab5cad,A_NOT_APPROVED,Marriott,34.54,Awaiting approval,Approve transaction
+P2,226fed44-5132-4efb-a85d-bbf615ab5cad,A_NOT_APPROVED,Marriott,34.54,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8ace30fe-49b8-4b56-a372-519af818380c,A_NOT_APPROVED,Uber,35.98,Awaiting approval,Approve transaction
+P2,8ace30fe-49b8-4b56-a372-519af818380c,A_NOT_APPROVED,Uber,35.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,844f0227-3a88-41b4-8623-0530d35c8a77,A_NOT_APPROVED,Manhattan Beach Post,230.44,Awaiting approval,Approve transaction
+P2,844f0227-3a88-41b4-8623-0530d35c8a77,A_NOT_APPROVED,Manhattan Beach Post,230.44,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1e3f8301-7473-44bb-b200-5c14ea143737,A_NOT_APPROVED,Uber,39.29,Awaiting approval,Approve transaction
+P2,1e3f8301-7473-44bb-b200-5c14ea143737,A_NOT_APPROVED,Uber,39.29,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1532c677-e8a3-4ac5-b920-fd680752fa92,A_NOT_APPROVED,Avalara,2.3,Awaiting approval,Approve transaction
+P2,1532c677-e8a3-4ac5-b920-fd680752fa92,A_NOT_APPROVED,Avalara,2.3,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3217d2ed-71ed-4840-b926-c1f9243345b3,A_NOT_APPROVED,zTrip,45.17,Awaiting approval,Approve transaction
+P2,3217d2ed-71ed-4840-b926-c1f9243345b3,A_NOT_APPROVED,zTrip,45.17,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4446644e-8d19-47b9-8399-db3946e9d588,A_NOT_APPROVED,Starbucks,14.61,Awaiting approval,Approve transaction
+P2,4446644e-8d19-47b9-8399-db3946e9d588,A_NOT_APPROVED,Starbucks,14.61,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,42236add-1b47-4403-9145-fa7f25cc2383,A_NOT_APPROVED,Uber,27.98,Awaiting approval,Approve transaction
+P2,42236add-1b47-4403-9145-fa7f25cc2383,A_NOT_APPROVED,Uber,27.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3ec07198-0a00-48d3-ac37-c9f845928049,A_NOT_APPROVED,MOO,88.19,Awaiting approval,Approve transaction
+P2,3ec07198-0a00-48d3-ac37-c9f845928049,A_NOT_APPROVED,MOO,88.19,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,86ae41e8-b8d4-4b22-b709-4577948056d4,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P2,86ae41e8-b8d4-4b22-b709-4577948056d4,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bf65b549-cacc-479a-85da-58b85d27fb80,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P2,bf65b549-cacc-479a-85da-58b85d27fb80,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,dd8fa8e4-c9f9-47a9-a0ad-186b437c88ba,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P2,dd8fa8e4-c9f9-47a9-a0ad-186b437c88ba,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1c7b7bb0-2c03-460b-be03-0c2c748a1ab6,A_NOT_APPROVED,Mayflower Cab Company,55.43,Awaiting approval,Approve transaction
+P2,1c7b7bb0-2c03-460b-be03-0c2c748a1ab6,A_NOT_APPROVED,Mayflower Cab Company,55.43,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,385dc627-c525-4612-ae4e-0175ad216df4,A_NOT_APPROVED,Uber,38.98,Awaiting approval,Approve transaction
+P2,385dc627-c525-4612-ae4e-0175ad216df4,A_NOT_APPROVED,Uber,38.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8a657085-408e-48e8-8bfd-7ef610921ed9,A_NOT_APPROVED,Uber,34.98,Awaiting approval,Approve transaction
+P2,8a657085-408e-48e8-8bfd-7ef610921ed9,A_NOT_APPROVED,Uber,34.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,fcbb92e8-6e7c-4d84-a350-334a1e6a5fb0,A_NOT_APPROVED,Pappadeaux Seafood Kitchen,235.54,Awaiting approval,Approve transaction
+P2,fcbb92e8-6e7c-4d84-a350-334a1e6a5fb0,A_NOT_APPROVED,Pappadeaux Seafood Kitchen,235.54,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,6bf21c0f-4c08-4fdf-b56f-faa8ec782253,A_NOT_APPROVED,Indeed,120,Awaiting approval,Approve transaction
+P2,6bf21c0f-4c08-4fdf-b56f-faa8ec782253,A_NOT_APPROVED,Indeed,120,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,19ca1e9b-8949-4530-8f52-4778f1d08a85,A_NOT_APPROVED,Uber,32.98,Awaiting approval,Approve transaction
+P2,19ca1e9b-8949-4530-8f52-4778f1d08a85,A_NOT_APPROVED,Uber,32.98,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8c148324-f7fc-4795-a3fe-751ad59074fd,A_NOT_APPROVED,Uber,27.9,Awaiting approval,Approve transaction
+P2,8c148324-f7fc-4795-a3fe-751ad59074fd,A_NOT_APPROVED,Uber,27.9,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,34be5d0e-5905-4333-afdf-367916e68514,A_NOT_APPROVED,Uber,6,Awaiting approval,Approve transaction
+P2,34be5d0e-5905-4333-afdf-367916e68514,A_NOT_APPROVED,Uber,6,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,7f89dc5c-8ddf-466e-b9b1-413a24f80052,A_NOT_APPROVED,Online Visa India Visa,299,Awaiting approval,Approve transaction
+P2,7f89dc5c-8ddf-466e-b9b1-413a24f80052,A_NOT_APPROVED,Online Visa India Visa,299,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,fb68cd20-842f-45aa-be6f-47ba07d3a142,A_NOT_APPROVED,Doubletree By Hilton,48.92,Awaiting approval,Approve transaction
+P2,fb68cd20-842f-45aa-be6f-47ba07d3a142,A_NOT_APPROVED,Doubletree By Hilton,48.92,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,97bac41d-0395-4a52-81c3-c73ffc4b43b9,A_NOT_APPROVED,Marriott,6,Awaiting approval,Approve transaction
+P2,97bac41d-0395-4a52-81c3-c73ffc4b43b9,A_NOT_APPROVED,Marriott,6,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0a183858-0228-45d7-86aa-665eeb37ec9d,A_NOT_APPROVED,Olive & Ivy,21.81,Awaiting approval,Approve transaction
+P2,0a183858-0228-45d7-86aa-665eeb37ec9d,A_NOT_APPROVED,Olive & Ivy,21.81,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9327f8fb-e564-4f7d-b1a1-805d48d8111b,A_NOT_APPROVED,Terminal A,57,Awaiting approval,Approve transaction
+P2,9327f8fb-e564-4f7d-b1a1-805d48d8111b,A_NOT_APPROVED,Terminal A,57,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8e62083d-88d4-4fd3-aba6-ad45a5a0ebc4,A_NOT_APPROVED,City of Eugene,75,Awaiting approval,Approve transaction
+P2,8e62083d-88d4-4fd3-aba6-ad45a5a0ebc4,A_NOT_APPROVED,City of Eugene,75,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3257947a-81b1-4203-9381-8b75f8f53d8b,A_NOT_APPROVED,Anthropic,18.1,Awaiting approval,Approve transaction
+P2,3257947a-81b1-4203-9381-8b75f8f53d8b,A_NOT_APPROVED,Anthropic,18.1,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,76cac300-4b60-49d7-8748-0d135d9cfb6e,A_NOT_APPROVED,Fedex,25.59,Awaiting approval,Approve transaction
+P2,76cac300-4b60-49d7-8748-0d135d9cfb6e,A_NOT_APPROVED,Fedex,25.59,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,41598599-4ca3-41ae-b24e-b336dd763078,A_NOT_APPROVED,Fedex,345.07,Awaiting approval,Approve transaction
+P2,41598599-4ca3-41ae-b24e-b336dd763078,A_NOT_APPROVED,Fedex,345.07,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ac27483a-7746-4f66-b42b-1f91767e40c8,A_NOT_APPROVED,Microsoft Office / Azure,16.8,Awaiting approval,Approve transaction
+P2,ac27483a-7746-4f66-b42b-1f91767e40c8,A_NOT_APPROVED,Microsoft Office / Azure,16.8,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,df6e757f-1402-440d-8951-a6e3fc59862a,A_NOT_APPROVED,Ronald Reagan Washington National Airport,140,Awaiting approval,Attach receipt
+P1,df6e757f-1402-440d-8951-a6e3fc59862a,A_NOT_APPROVED,Ronald Reagan Washington National Airport,140,Awaiting approval,Add memo
+P1,df6e757f-1402-440d-8951-a6e3fc59862a,A_NOT_APPROVED,Ronald Reagan Washington National Airport,140,Awaiting approval,Approve transaction
+P2,df6e757f-1402-440d-8951-a6e3fc59862a,A_NOT_APPROVED,Ronald Reagan Washington National Airport,140,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,db03848c-44b0-42c0-ba5d-4d99d3307228,A_NOT_APPROVED,Vonage,471.76,Awaiting approval,Approve transaction
+P2,db03848c-44b0-42c0-ba5d-4d99d3307228,A_NOT_APPROVED,Vonage,471.76,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d20de0cb-11b2-4c86-b45e-335eff30c7ef,A_NOT_APPROVED,Southwest Airlines,692.81,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,d20de0cb-11b2-4c86-b45e-335eff30c7ef,A_NOT_APPROVED,Southwest Airlines,692.81,Awaiting approval,Approve transaction
+P2,d20de0cb-11b2-4c86-b45e-335eff30c7ef,A_NOT_APPROVED,Southwest Airlines,692.81,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,99cb5807-bf81-424f-bb30-3a65aec765ad,A_NOT_APPROVED,Deliveroo,47.44,Awaiting approval,Approve transaction
+P2,99cb5807-bf81-424f-bb30-3a65aec765ad,A_NOT_APPROVED,Deliveroo,47.44,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,734da1d5-2a37-4761-9924-18d28b7d67e2,A_NOT_APPROVED,Uber,5.9,Awaiting approval,Approve transaction
+P2,734da1d5-2a37-4761-9924-18d28b7d67e2,A_NOT_APPROVED,Uber,5.9,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,8059ed2b-75b4-4502-916d-2f17fc7704f3,A_NOT_APPROVED,Uber,34.42,Awaiting approval,Approve transaction
+P2,8059ed2b-75b4-4502-916d-2f17fc7704f3,A_NOT_APPROVED,Uber,34.42,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a5e6a026-1bf3-4d06-b800-53b194d9490a,A_NOT_APPROVED,Cloudflare,10,Awaiting approval,Approve transaction
+P2,a5e6a026-1bf3-4d06-b800-53b194d9490a,A_NOT_APPROVED,Cloudflare,10,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,95509c6e-ff3e-481e-bb36-d7f3fbbf00f2,A_NOT_APPROVED,Wix,24,Awaiting approval,Approve transaction
+P2,95509c6e-ff3e-481e-bb36-d7f3fbbf00f2,A_NOT_APPROVED,Wix,24,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2d6b200d-741c-490f-ae20-072bdb4e349a,A_NOT_APPROVED,Hubspot,9207,Awaiting approval,Approve transaction
+P2,2d6b200d-741c-490f-ae20-072bdb4e349a,A_NOT_APPROVED,Hubspot,9207,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,3f3186b4-4a2e-42b1-9f8c-45428e87a085,A_NOT_APPROVED,Fedex,136.93,Awaiting approval,Approve transaction
+P2,3f3186b4-4a2e-42b1-9f8c-45428e87a085,A_NOT_APPROVED,Fedex,136.93,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e673ac98-959e-48c7-a83e-748f824c05c0,A_NOT_APPROVED,Lark Creek Grill,40.32,Awaiting approval,Approve transaction
+P2,e673ac98-959e-48c7-a83e-748f824c05c0,A_NOT_APPROVED,Lark Creek Grill,40.32,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,bcc39aeb-1edf-4353-8512-7aa4803d4e6e,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Attach receipt
+P1,bcc39aeb-1edf-4353-8512-7aa4803d4e6e,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Add memo
+P1,bcc39aeb-1edf-4353-8512-7aa4803d4e6e,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Approve transaction
+P2,bcc39aeb-1edf-4353-8512-7aa4803d4e6e,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,b0cb68ad-03d4-4f24-922b-ab8188eb9d4e,A_NOT_APPROVED,Zoom,100.79,Awaiting approval,Approve transaction
+P2,b0cb68ad-03d4-4f24-922b-ab8188eb9d4e,A_NOT_APPROVED,Zoom,100.79,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,2848c636-7a0f-4d81-abfb-4ff6a489d01a,A_NOT_APPROVED,Fast Company,495,Awaiting approval,Approve transaction
+P2,2848c636-7a0f-4d81-abfb-4ff6a489d01a,A_NOT_APPROVED,Fast Company,495,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,89fa7c1e-ba02-4277-bba2-9c3d8d96c2e7,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,89fa7c1e-ba02-4277-bba2-9c3d8d96c2e7,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Approve transaction
+P2,89fa7c1e-ba02-4277-bba2-9c3d8d96c2e7,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,aece79a0-354c-4378-b98f-ae68596d88f8,A_NOT_APPROVED,Curb Taxi App,38.81,Awaiting approval,Approve transaction
+P2,aece79a0-354c-4378-b98f-ae68596d88f8,A_NOT_APPROVED,Curb Taxi App,38.81,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,74e65d95-34ba-42ef-a9f7-0a891f306230,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,74e65d95-34ba-42ef-a9f7-0a891f306230,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Approve transaction
+P2,74e65d95-34ba-42ef-a9f7-0a891f306230,A_NOT_APPROVED,Fontainebleau Hotels,1187.07,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d80b94c2-9b77-42ab-ba46-9fda8f5665ec,A_NOT_APPROVED,Uber,15.17,Awaiting approval,Approve transaction
+P2,d80b94c2-9b77-42ab-ba46-9fda8f5665ec,A_NOT_APPROVED,Uber,15.17,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cfd8707b-3b71-4f17-b1a0-d56f46a5a5db,A_NOT_APPROVED,Uber,13.45,Awaiting approval,Approve transaction
+P2,cfd8707b-3b71-4f17-b1a0-d56f46a5a5db,A_NOT_APPROVED,Uber,13.45,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,4a48bc84-54b6-4213-bc59-c9913e930c7a,A_NOT_APPROVED,Microsoft Office / Azure,13.7,Awaiting approval,Approve transaction
+P2,4a48bc84-54b6-4213-bc59-c9913e930c7a,A_NOT_APPROVED,Microsoft Office / Azure,13.7,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,49b64372-346a-4bf5-b0d0-1009a2dce757,A_NOT_APPROVED,Cool River Cafe,25.54,Awaiting approval,Approve transaction
+P2,49b64372-346a-4bf5-b0d0-1009a2dce757,A_NOT_APPROVED,Cool River Cafe,25.54,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,d4d39ebe-c75a-4e19-97e8-3c53eeedca0a,A_NOT_APPROVED,Wpy Security Bsides Sa,3000,Awaiting approval,Approve transaction
+P2,d4d39ebe-c75a-4e19-97e8-3c53eeedca0a,A_NOT_APPROVED,Wpy Security Bsides Sa,3000,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,38709676-77ee-4928-adb8-7e569ff37feb,A_NOT_APPROVED,Fedex,48.76,Awaiting approval,Approve transaction
+P2,38709676-77ee-4928-adb8-7e569ff37feb,A_NOT_APPROVED,Fedex,48.76,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,6ec3c014-2938-4942-999f-883381c00d93,A_NOT_APPROVED,Uber,23.99,Awaiting approval,Approve transaction
+P2,6ec3c014-2938-4942-999f-883381c00d93,A_NOT_APPROVED,Uber,23.99,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,9791208e-83ba-433a-852d-343dfe72fbb8,A_NOT_APPROVED,Fontainebleau Hotels,395.69,Awaiting approval,Attach receipt
+P1,9791208e-83ba-433a-852d-343dfe72fbb8,A_NOT_APPROVED,Fontainebleau Hotels,395.69,Awaiting approval,Add memo
+P1,9791208e-83ba-433a-852d-343dfe72fbb8,A_NOT_APPROVED,Fontainebleau Hotels,395.69,Awaiting approval,Approve transaction
+P2,9791208e-83ba-433a-852d-343dfe72fbb8,A_NOT_APPROVED,Fontainebleau Hotels,395.69,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,a58835c4-17df-47a6-91cd-6bf921b40d33,A_NOT_APPROVED,OpenPhone,20.29,Awaiting approval,Approve transaction
+P2,a58835c4-17df-47a6-91cd-6bf921b40d33,A_NOT_APPROVED,OpenPhone,20.29,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,cdae0ac9-f567-4578-ad20-88d3cee431ed,A_NOT_APPROVED,Hofbrauhaus Las Vegas,196.32,Awaiting approval,Approve transaction
+P2,cdae0ac9-f567-4578-ad20-88d3cee431ed,A_NOT_APPROVED,Hofbrauhaus Las Vegas,196.32,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5fe27b89-7aef-47a2-b46a-24cd6d3239c2,A_NOT_APPROVED,Semrush,20,Awaiting approval,Approve transaction
+P2,5fe27b89-7aef-47a2-b46a-24cd6d3239c2,A_NOT_APPROVED,Semrush,20,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,1d59c042-f376-473f-bcd6-3a1a00bdf8b0,A_NOT_APPROVED,Uber,14.44,Awaiting approval,Approve transaction
+P2,1d59c042-f376-473f-bcd6-3a1a00bdf8b0,A_NOT_APPROVED,Uber,14.44,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,f947da75-f23c-4626-878e-b65c84e37236,A_NOT_APPROVED,Fontainebleau Hotels,43.18,Awaiting approval,Approve transaction
+P2,f947da75-f23c-4626-878e-b65c84e37236,A_NOT_APPROVED,Fontainebleau Hotels,43.18,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,0e293dfe-6253-40f2-8cb3-3aaf3b46c92e,A_NOT_APPROVED,Gordon Ramsay Burger,161.67,Awaiting approval,Approve transaction
+P2,0e293dfe-6253-40f2-8cb3-3aaf3b46c92e,A_NOT_APPROVED,Gordon Ramsay Burger,161.67,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,6a2d4017-03f7-4167-b3a2-5f3cbfac2d9b,A_NOT_APPROVED,Anthropic,20,Awaiting approval,Approve transaction
+P2,6a2d4017-03f7-4167-b3a2-5f3cbfac2d9b,A_NOT_APPROVED,Anthropic,20,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,ab690c93-e287-4e3e-912e-b91e3bca67e5,A_NOT_APPROVED,zTrip,21.97,Awaiting approval,Approve transaction
+P2,ab690c93-e287-4e3e-912e-b91e3bca67e5,A_NOT_APPROVED,zTrip,21.97,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,5682ea91-f5de-4f88-8182-c02cb9934844,A_NOT_APPROVED,Air Canada,301.14,Awaiting approval,Attach receipt
+P1,5682ea91-f5de-4f88-8182-c02cb9934844,A_NOT_APPROVED,Air Canada,301.14,Awaiting approval,Add memo
+P1,5682ea91-f5de-4f88-8182-c02cb9934844,A_NOT_APPROVED,Air Canada,301.14,Awaiting approval,Approve transaction
+P2,5682ea91-f5de-4f88-8182-c02cb9934844,A_NOT_APPROVED,Air Canada,301.14,Awaiting approval,Run historical backfill/re-export from Ramp accounting sync
+P1,e3fb9397-d20a-4742-ae81-0c9a8c50e277,A_NOT_APPROVED,Fontainebleau Hotels,66.62,Awaiting approval,Approve transaction
+P1,a186c45e-63c8-408a-8df5-3c4764ad3e67,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P1,daecc70e-6205-4e1d-bc4a-bb3d273d0696,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P1,0126dd32-c717-4d1d-982d-203942857d7b,A_NOT_APPROVED,HelloRetriever,105,Awaiting approval,Approve transaction
+P1,f08330a3-5163-4035-8124-af36692deab1,A_NOT_APPROVED,Uber,28.98,Awaiting approval,Approve transaction
+P1,5624b07b-e025-41ff-a13d-9d84127c75af,A_NOT_APPROVED,Fedex,87.2,Awaiting approval,Approve transaction
+P1,47524431-505c-4db0-a4cc-0f8e85772cc0,A_NOT_APPROVED,Hudson News,13.18,Awaiting approval,Approve transaction
+P1,6aa7bde0-3120-4f8c-807b-984494a8d748,A_NOT_APPROVED,OpenAI,20,Awaiting approval,Approve transaction
+P1,93c80c17-5db6-44a7-b777-7d53945a6004,A_NOT_APPROVED,e-Filing,2073.78,Awaiting approval,Approve transaction
+P1,9fb980b5-d02d-48a5-a7bb-b68a4bf3cfdb,A_NOT_APPROVED,Sonarsource,32,Awaiting approval,Approve transaction
+P1,84406b6c-a62e-40fa-add3-e4fd59b2476c,A_NOT_APPROVED,Shipping Finds,31.5,Awaiting approval,Approve transaction
+P1,e1750896-bab5-4b62-b57d-c12f951c5baa,A_NOT_APPROVED,Fontainebleau Hotels,73.3,Awaiting approval,Approve transaction
+P1,91f4e41b-6b0f-4373-893d-4a0b8e51db32,A_NOT_APPROVED,Gordon Ramsay Hell's Kitchen,158.22,Awaiting approval,Approve transaction
+P1,4d0cb31d-fccc-41f1-af01-9b97d1e7f11a,A_NOT_APPROVED,Gordon Ramsay Hell's Kitchen,133.32,Awaiting approval,Attach receipt
+P1,4d0cb31d-fccc-41f1-af01-9b97d1e7f11a,A_NOT_APPROVED,Gordon Ramsay Hell's Kitchen,133.32,Awaiting approval,Add memo
+P1,4d0cb31d-fccc-41f1-af01-9b97d1e7f11a,A_NOT_APPROVED,Gordon Ramsay Hell's Kitchen,133.32,Awaiting approval,Approve transaction
+P1,d9fa79df-09e8-4187-86be-79b8358e301e,A_NOT_APPROVED,Fedex,144.7,Awaiting approval,Attach receipt
+P1,d9fa79df-09e8-4187-86be-79b8358e301e,A_NOT_APPROVED,Fedex,144.7,Awaiting approval,Approve transaction
+P1,67e3a69b-9ab9-49f1-9d17-be7a4934e813,A_NOT_APPROVED,Uber,20.82,Awaiting approval,Approve transaction
+P1,f4fb83d2-7f60-41a6-8788-aeea3e82d792,A_NOT_APPROVED,United,405.85,Awaiting approval,Attach receipt
+P1,f4fb83d2-7f60-41a6-8788-aeea3e82d792,A_NOT_APPROVED,United,405.85,Awaiting approval,Add memo
+P1,f4fb83d2-7f60-41a6-8788-aeea3e82d792,A_NOT_APPROVED,United,405.85,Awaiting approval,Approve transaction
+P1,3a8719d1-f228-4ee9-a20a-82d5779f8be0,A_NOT_APPROVED,Vegas Born Conc D Burke,32.07,Awaiting approval,Approve transaction
+P1,20bb72ef-48d1-46a2-bdf4-5a47ae111717,A_NOT_APPROVED,Alaska Airlines,646.8,Awaiting approval,Resolve policy violation/exception in Ramp policy workflow
+P1,20bb72ef-48d1-46a2-bdf4-5a47ae111717,A_NOT_APPROVED,Alaska Airlines,646.8,Awaiting approval,Approve transaction
+P1,16b6f99b-ecc3-4d56-b946-9ede298a3f61,A_NOT_APPROVED,Residence Inn,362.64,Awaiting approval,Approve transaction
+P1,f0544ed9-10ad-4639-b4c2-2017a7eebb99,A_NOT_APPROVED,PGA Tour Grill,28.37,Awaiting approval,Approve transaction
+P1,d1f916af-f3e2-4961-ab89-34141a0512b6,A_NOT_APPROVED,Air Canada,772.72,Awaiting approval,Attach receipt
+P1,d1f916af-f3e2-4961-ab89-34141a0512b6,A_NOT_APPROVED,Air Canada,772.72,Awaiting approval,Add memo
+P1,d1f916af-f3e2-4961-ab89-34141a0512b6,A_NOT_APPROVED,Air Canada,772.72,Awaiting approval,Approve transaction
+P1,ab656863-60d6-44c2-829a-6a7ef98512ba,A_NOT_APPROVED,Terminal A,76,Awaiting approval,Approve transaction
+P1,dbe48f0f-bc69-4dbb-a64c-d39b546f4a5d,A_NOT_APPROVED,Texas Roadhouse,114.89,Awaiting approval,Approve transaction
+P1,b5b54f42-76e9-422d-834f-86bb3ba93925,A_NOT_APPROVED,Anthropic,5,Awaiting approval,Approve transaction
+P1,bc14f654-ee20-4560-8fbf-c8439252df1a,A_NOT_APPROVED,Gandi.net,38.38,Awaiting approval,Approve transaction
+P2,5a8af456-9827-4663-9815-a3ad29ab34b7,B_APPROVED_BUT_NOT_READY,Grasshopper,143.1,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,271ce779-7c1c-475a-b3ea-7775ef3fcf14,B_APPROVED_BUT_NOT_READY,Google Workspace,12,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,1b592628-01be-4a26-9b26-8335986a4657,B_APPROVED_BUT_NOT_READY,Fedex,32.45,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,b253b2c2-3a0b-4e3c-88c0-d10a2d762de4,B_APPROVED_BUT_NOT_READY,Shodan,69,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,b7a5ef90-cdc0-49e6-aace-fa3b189496a2,B_APPROVED_BUT_NOT_READY,Atlassian,349.38,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,ace2f857-abda-4088-a4cd-0b478f77702d,B_APPROVED_BUT_NOT_READY,Gandi.net,38.38,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,f051aba5-4bf9-4d68-8875-3e29e620c7bb,B_APPROVED_BUT_NOT_READY,HelloRetriever,260,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,8c0e5c87-f300-4c32-b60f-8468ffb21921,B_APPROVED_BUT_NOT_READY,UPS,10,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,264d6a50-48ba-43e3-893e-00c77b0cf2ad,B_APPROVED_BUT_NOT_READY,HelloRetriever,114,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,3df99271-88cb-456c-9be2-c81d57ac92a1,B_APPROVED_BUT_NOT_READY,Gandi.net,38.38,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,e84078fe-0087-41f0-a99c-2dc073b5ba7b,B_APPROVED_BUT_NOT_READY,Yogi's Bar & Grill,89.21,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,22178af4-53b3-43fc-9a4d-dba517bdf2d3,B_APPROVED_BUT_NOT_READY,HelloRetriever,105,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,700fc5b8-e399-4de5-a567-b9f5c216fb24,B_APPROVED_BUT_NOT_READY,HelloRetriever,105,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,624ccb60-0ae3-42f2-989d-dc16c9f97ba4,B_APPROVED_BUT_NOT_READY,HelloRetriever,105,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,55e58391-b540-43e9-99ac-46898abda8ba,B_APPROVED_BUT_NOT_READY,HelloRetriever,105,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,32a504a2-37af-4b29-abd0-b35c6d0022c7,B_APPROVED_BUT_NOT_READY,HelloRetriever,105,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,27107e47-fe48-4b25-8f44-3fc42c17f903,B_APPROVED_BUT_NOT_READY,Served by Stadium,156.51,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,205f82c1-939d-4547-843a-e02f1f305887,B_APPROVED_BUT_NOT_READY,Served by Stadium,156.51,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,784d91ae-9da8-4d65-9957-31a8caabed26,B_APPROVED_BUT_NOT_READY,Atlassian,76.65,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,e941d5cc-ac1e-4226-aae4-c9243d46e016,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,1436.4,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,97d93f71-134f-45fa-953e-c66abfcbf452,B_APPROVED_BUT_NOT_READY,Atlassian,60.04,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,a9784b71-7c39-46d5-8d8b-d48f574b6b4c,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,36,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,57b2c561-cab9-4202-ab7c-9f5ccbe62ba6,B_APPROVED_BUT_NOT_READY,JSX Air,623.5,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,6f065661-ea29-43ef-af25-0c62dfbc83ff,B_APPROVED_BUT_NOT_READY,Corellium,800,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,b3f46c26-4233-4c49-820f-9d7ccbba76e2,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,151.2,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,b460faf5-6c11-45f3-8327-03725a94f9bc,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,556.43,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,b607d31d-7e2f-4392-b940-6e7344a15be2,B_APPROVED_BUT_NOT_READY,Uber,16.08,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,65f5deb6-a423-4037-82b8-b834f0c77e6c,B_APPROVED_BUT_NOT_READY,Uber,2,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,79d15550-4c79-4763-8b74-c83484af557a,B_APPROVED_BUT_NOT_READY,Vegas Airo 1,737,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,662f0ca2-27bd-4efa-a650-a3888ce162a8,B_APPROVED_BUT_NOT_READY,Uber Eats,34.55,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,01da2f22-47d7-4de0-843a-939d4f783ac2,B_APPROVED_BUT_NOT_READY,Freesia,9.19,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,92258443-0158-4b09-bde6-5ff63422b6e8,B_APPROVED_BUT_NOT_READY,Uber,21.98,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,f537f334-1064-4406-ace1-9fc8ce313fe1,B_APPROVED_BUT_NOT_READY,ProteinHouse,62.81,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,efb8cb20-caa6-4fd1-be29-b389321bbace,B_APPROVED_BUT_NOT_READY,Uber,10.61,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,84ef17ca-f19d-4268-b7a5-e0ed2b680851,B_APPROVED_BUT_NOT_READY,Uber,24.3,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,281f5400-5eb9-43ee-9ea4-6adfc0121042,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,11340,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,64510608-67bb-4b4e-8c18-7a3ae23a5450,B_APPROVED_BUT_NOT_READY,Runn,196,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P1,1f80a974-ef4d-4864-8b65-3c71cc40edd7,B_APPROVED_BUT_NOT_READY,Marriott,94290.16,Policy violation unresolved,Resolve policy violation/exception in Ramp policy workflow
+P2,1f80a974-ef4d-4864-8b65-3c71cc40edd7,B_APPROVED_BUT_NOT_READY,Marriott,94290.16,Policy violation unresolved,Run historical backfill/re-export from Ramp accounting sync
+P2,bb1dad4c-f2da-47ff-b076-74198d7d43d2,B_APPROVED_BUT_NOT_READY,Amazon,250,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,0995ebb6-01e6-4b2a-b713-c9505c555d9b,B_APPROVED_BUT_NOT_READY,Verified First,437.27,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,57a53cf3-cd0a-4f48-96e0-bfe7b0b10d07,B_APPROVED_BUT_NOT_READY,Fedex,32.45,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,71988c0a-2477-4f65-8fd6-325febee3552,B_APPROVED_BUT_NOT_READY,Le's Engravers,1478.7,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,ee239c3e-bfca-4b02-8422-804b10f3f9ff,B_APPROVED_BUT_NOT_READY,JSX Air,603.5,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,5493ab32-e50e-4812-b1c2-44cfbc0def86,B_APPROVED_BUT_NOT_READY,Slack,8944.75,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,fdcf20d3-7e79-466f-bcfb-7c54498ba504,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,8755.75,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,62ffd6bb-5025-4c02-b976-678ee34d1927,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,734.64,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,b7035987-86f6-4878-a3ba-284537dbc708,B_APPROVED_BUT_NOT_READY,Fedex,231.95,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,0cb57ab2-5085-4444-b6f0-43d23db37f47,B_APPROVED_BUT_NOT_READY,Hampton Inn,388.7,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,00c07df0-c322-44ce-8fc0-e7502c346a81,B_APPROVED_BUT_NOT_READY,Alaska Airlines,135.2,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,df574fb1-ccb9-4797-859e-5cf2b1f0583b,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,6600,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,30643754-79d4-4007-bd56-12e54f7936c1,B_APPROVED_BUT_NOT_READY,Smartsheet,96,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,05f3e602-9058-44ee-b62b-0a478009638a,B_APPROVED_BUT_NOT_READY,Amazon,14.99,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,fd4c8d4b-6412-48d7-905f-f1dd4837b684,B_APPROVED_BUT_NOT_READY,Atlassian,16724.28,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,a956b0ae-39df-4c9f-bdd2-089e1522f2cc,B_APPROVED_BUT_NOT_READY,Microsoft Store,6165,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,bc65f4ee-814f-4655-b2c3-4cf594440f39,B_APPROVED_BUT_NOT_READY,Starbucks,11.98,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,589ec996-b165-4950-8d1c-2a3e102f07aa,B_APPROVED_BUT_NOT_READY,Uber,36.97,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,3b073241-8818-4cad-849d-cd2c56ca8aa3,B_APPROVED_BUT_NOT_READY,American Airlines,24,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,d043fed6-a461-494d-b4bf-a93eb96f18df,B_APPROVED_BUT_NOT_READY,Uber,29.08,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,c447064a-e089-42ca-9b12-cf0369d46cc6,B_APPROVED_BUT_NOT_READY,Uber,24.96,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,e9dd7284-4f18-45d3-9d17-b3ab0b08656e,B_APPROVED_BUT_NOT_READY,Lab Transportation,57.58,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,1cdff8bb-db9d-4ea4-b27b-f01a86ed0e77,B_APPROVED_BUT_NOT_READY,Marriott,31.82,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,ca6356d3-a692-4a55-84df-cc08f45760a0,B_APPROVED_BUT_NOT_READY,Uber,27.31,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,3c2cf1c5-dc49-4640-96ca-17fe95f89858,B_APPROVED_BUT_NOT_READY,Uber,53.24,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,ff08c2c3-71c6-4771-862f-c071b254f33c,B_APPROVED_BUT_NOT_READY,Doordash,27.34,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,b290e310-db8b-4594-8b0f-40f3d5c05e29,B_APPROVED_BUT_NOT_READY,Uber,25.96,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,6efc1e60-73a3-4567-81ac-2b60049255af,B_APPROVED_BUT_NOT_READY,Marriott,2.41,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,0aab813e-9311-4bb6-80c6-49b59aab5c1a,B_APPROVED_BUT_NOT_READY,Marriott,20.26,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,88e15870-ab90-408a-84a1-76f5baf87080,B_APPROVED_BUT_NOT_READY,Marriott,6.37,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,77701a9a-ab42-4028-bb08-020ad6a3a090,B_APPROVED_BUT_NOT_READY,Casa Sensei,231.25,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,777a566a-a13e-4024-adac-be2f7a9c783a,B_APPROVED_BUT_NOT_READY,Casa Sensei,262.5,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,d1247ce4-7f01-451e-9fcb-229fd9a91794,B_APPROVED_BUT_NOT_READY,Casa Sensei,197.5,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,97a03be5-b85e-4e83-b378-e46257627e14,B_APPROVED_BUT_NOT_READY,Uber,41.55,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,57465cde-ba5f-45a0-b4e0-0a7595023185,B_APPROVED_BUT_NOT_READY,Doordash,21.94,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,b36a24df-433f-419b-8b5a-36bc80c8a337,B_APPROVED_BUT_NOT_READY,Uber,32.61,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,9d86d33f-efd7-4131-80e2-14cbab9680df,B_APPROVED_BUT_NOT_READY,Uber,25.94,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,4a44df27-2e60-4365-9a9e-0674175808aa,B_APPROVED_BUT_NOT_READY,Uber,29.81,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,21c1b688-5353-4de7-aa2f-ba599fa30db1,B_APPROVED_BUT_NOT_READY,Richmond Airport Parking,45,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,7ae096ec-7946-4ec3-99b6-ddc9e4f0753e,B_APPROVED_BUT_NOT_READY,Marriott,6.37,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,70d161f0-2fef-4ef1-8900-dc97ccd59bbd,B_APPROVED_BUT_NOT_READY,Fedex,32.9,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,fc750380-c381-4517-a367-3734091432e8,B_APPROVED_BUT_NOT_READY,Starbucks,11.5,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,8f87b736-18e1-4d7a-a6f2-f6184767a1df,B_APPROVED_BUT_NOT_READY,Evolve,10.69,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,e8bcbb21-b66e-4e78-ae15-d959d82d61fb,B_APPROVED_BUT_NOT_READY,Airport,12.59,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,f0ee4d80-04b5-4f42-b884-edebc7fd7810,B_APPROVED_BUT_NOT_READY,Travel @ Ease,9.82,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,845443b7-3ede-4348-a9d7-01036d2952c3,B_APPROVED_BUT_NOT_READY,HelloRetriever,269,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,2ca44e23-006f-4d9c-b290-a70a75b9342c,B_APPROVED_BUT_NOT_READY,HelloRetriever,269,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,9b5bb52e-dad5-494c-ba90-c00ff2e2717a,B_APPROVED_BUT_NOT_READY,Amazon,17.61,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,2aad130b-7f56-4a8c-97be-3bfab68a8b9b,B_APPROVED_BUT_NOT_READY,Marriott,396.76,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,aab9e85b-30dc-411d-b5ca-ad1154902049,B_APPROVED_BUT_NOT_READY,Ronald Reagan Washington National Airport,140,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,45417ad9-5c6a-4272-8f56-9b3846d7ed06,B_APPROVED_BUT_NOT_READY,Rocco's Tacos,30.73,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,ca0ad476-1ed6-4248-9a9e-a214f482a1ab,B_APPROVED_BUT_NOT_READY,Atps Taxi & Limo Service,52.09,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,fe967f4f-43cb-491f-be9f-382f1f26cd58,B_APPROVED_BUT_NOT_READY,Jersey Mike's Subs,25.24,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,f6ef3c56-e904-411b-8d02-086a95a2ee81,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,7980,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,0b27b04a-07fa-4a22-9ae2-f4385e6d47d6,B_APPROVED_BUT_NOT_READY,Dulles International Airport,60,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P1,4d79bc75-5faf-4960-803e-fce803f94a12,B_APPROVED_BUT_NOT_READY,Marriott,7437.98,Policy violation unresolved,Resolve policy violation/exception in Ramp policy workflow
+P2,4d79bc75-5faf-4960-803e-fce803f94a12,B_APPROVED_BUT_NOT_READY,Marriott,7437.98,Policy violation unresolved,Run historical backfill/re-export from Ramp accounting sync
+P2,15446a64-4f2d-4663-a6b8-fd797346563e,B_APPROVED_BUT_NOT_READY,Jamf,608,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,e7c0329c-7bd1-4189-ae07-a64dc05d9c90,B_APPROVED_BUT_NOT_READY,Gandi.net,38.38,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,01a63587-5b1b-4dda-8d0c-78e3ff58c01c,B_APPROVED_BUT_NOT_READY,Gandi.net,38.38,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,6dccf349-59f8-4dfa-b68d-3ec125b277ec,B_APPROVED_BUT_NOT_READY,Indeed,120,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,282c3055-5c89-4a2a-a288-2acd058a628e,B_APPROVED_BUT_NOT_READY,Fedex,170.71,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P1,18b4fde9-3415-4154-8b6f-45a347921342,B_APPROVED_BUT_NOT_READY,Luis Miranda,149.76,Policy violation unresolved,Resolve policy violation/exception in Ramp policy workflow
+P2,18b4fde9-3415-4154-8b6f-45a347921342,B_APPROVED_BUT_NOT_READY,Luis Miranda,149.76,Policy violation unresolved,Run historical backfill/re-export from Ramp accounting sync
+P2,00f7a032-74df-4e12-aab4-1dc825de7ca4,B_APPROVED_BUT_NOT_READY,Microsoft Office / Azure,16.8,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,3cee75bd-621d-499d-a878-307cba9f866d,B_APPROVED_BUT_NOT_READY,Vonage,471.81,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,9f4181d8-bb37-480f-8522-cb19f720c3b8,B_APPROVED_BUT_NOT_READY,Hubble,222.4,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,0d87bc24-92b2-4b19-b78e-66c4efea0881,B_APPROVED_BUT_NOT_READY,Served by Stadium,62.6,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,257449c6-8447-449f-be4c-05d0df6516ca,B_APPROVED_BUT_NOT_READY,HelloRetriever,105,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,fa094966-9776-4abc-8704-23415c2b5f10,B_APPROVED_BUT_NOT_READY,Cloudflare,10,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,4c7fc339-88a5-467b-8a71-7d7e26c8f0ec,B_APPROVED_BUT_NOT_READY,Amazon,25.35,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,1de7703d-57dd-4e39-8135-c554c1f4e1dd,B_APPROVED_BUT_NOT_READY,Ohm Restaurant,6.19,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,3919b61b-26c6-486a-a750-a0a615be9c5f,B_APPROVED_BUT_NOT_READY,Fedex,33.55,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,e1305b20-7017-439b-8c7e-b533ff5b0a4f,B_APPROVED_BUT_NOT_READY,Zoom,100.79,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,229bd581-a70b-4bbc-b3ee-5c812ba436a1,B_APPROVED_BUT_NOT_READY,Delta Air Lines,736.97,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,051bb69a-3e53-42d7-a249-a4c7ad2bed3a,B_APPROVED_BUT_NOT_READY,Aloft,445.62,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,ad6e0d80-f844-4003-a8b1-724d62c694a5,B_APPROVED_BUT_NOT_READY,Feather & Bone,109.28,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,503abc50-2e37-4aa1-bc19-5b202fc2b16c,B_APPROVED_BUT_NOT_READY,Fedex,33.55,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync
+P2,31d7d84e-87a8-4b7b-8430-1d18f384d10d,B_APPROVED_BUT_NOT_READY,Ticketmaster,988.2,Pre-connection backlog,Run historical backfill/re-export from Ramp accounting sync

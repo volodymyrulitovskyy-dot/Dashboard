@@ -1,0 +1,470 @@
+{
+  "generated_at": "2026-03-01T21:40:14.538Z",
+  "period": {
+    "start": "2025-10-01",
+    "end": "2026-02-28"
+  },
+  "fetch_counts": {
+    "bills": 368,
+    "transactions_all": 1509,
+    "transactions_card_only": 1509
+  },
+  "bill_issue_summary": {
+    "missingVendor": 0,
+    "missingInvoiceNumber": 0,
+    "missingDate": 0,
+    "outOfRangeDate": 0,
+    "nonPositiveAmount": 0,
+    "lineItemAmountMismatch": 0,
+    "paidStatusMismatch": 0,
+    "paidButNotSynced": 299,
+    "approvalNotApproved": 27,
+    "duplicateIds": 0
+  },
+  "transaction_issue_summary": {
+    "missingCardId": 0,
+    "missingDate": 0,
+    "outOfRangeDate": 0,
+    "zeroAmount": 0,
+    "settlementBeforeTransaction": 0,
+    "lineItemAmountMismatch": 0,
+    "clearedNotSyncReady": 1502,
+    "missingReceiptOver75": 34,
+    "missingMemoOver100": 33,
+    "duplicateIds": 0
+  },
+  "bill_issue_samples": {
+    "missingVendor": [],
+    "missingInvoiceNumber": [],
+    "missingDate": [],
+    "outOfRangeDate": [],
+    "nonPositiveAmount": [],
+    "lineItemAmountMismatch": [],
+    "paidStatusMismatch": [],
+    "paidButNotSynced": [
+      {
+        "id": "1df5698f-2600-435f-a7db-dc2e468ad885",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "daf6da27-4965-40df-ad66-f7d1e195c253",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "a6085ff5-dd55-4947-bbd8-5ccce534b20d",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "c9210e94-7d32-4e7a-b46f-625570917e8e",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "ad7efc0f-b13b-49aa-9a21-6e174f305bef",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "db4bd625-69eb-4b70-ad24-a1939c53fbf7",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "5101dc58-4c81-45f6-ab15-05ab897b129e",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "d29b20ec-7e66-465c-8277-c4af21db28b9",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "71bd060f-32ad-4a23-8e2d-06ffbb41cb2b",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "c0c14dd9-1d06-4b65-9700-b713c52368fe",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "35286ef5-d25c-43b8-8c25-3d27be2c84e5",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "36a20bda-8cfd-4c05-9287-8bd9b4544459",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "7fd168c6-c2c2-4bd5-a7b5-184d75315ed1",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "782ee65f-0875-4a03-9ea5-a46bd0bddc2f",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      },
+      {
+        "id": "51b229db-bab5-4300-8e4f-33947f28967d",
+        "status": "PAID",
+        "sync_status": "NOT_SYNCED",
+        "status_summary": "PAYMENT_COMPLETED"
+      }
+    ],
+    "approvalNotApproved": [
+      {
+        "id": "a94dd848-d5fd-4582-9b70-b6c245a9fb11",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "9b690cda-2bb3-4624-bcc0-0acd327c0407",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "78436ce5-c5dd-4820-b2f7-87df201f0244",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "0939ded1-4c89-45fe-ac25-0f948fd71356",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "96cbab22-9e91-42a4-b83b-23b5dfd938e6",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "ecfd39e1-cb7c-4c15-9fc8-19b5d5bb7c1c",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "1236aef2-90da-484b-b9bd-0622fe512093",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "15ac9a1a-d9ac-4563-a155-4785daaa8d70",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "8b5d8908-e5ec-4101-adc0-5c1b710edd8e",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "dd79b36b-5b7a-421d-b7a4-fea08642cba9",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "8fccf53b-a869-4b95-9b09-bf65fe28a194",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "0d5516c4-c401-42ab-aa62-d16ec65f1f4a",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "5a1f3a86-e7e6-4b2a-a717-b62f31cde6e1",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "685e968d-7f91-46ba-9bb7-cb1e5e7f637e",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      },
+      {
+        "id": "b421e8fe-b2f8-4f14-ae4a-8f6a9e68637e",
+        "approval_status": "PENDING",
+        "status": "OPEN",
+        "status_summary": "APPROVAL_PENDING"
+      }
+    ],
+    "duplicateIds": []
+  },
+  "transaction_issue_samples": {
+    "missingCardId": [],
+    "missingDate": [],
+    "outOfRangeDate": [],
+    "zeroAmount": [],
+    "settlementBeforeTransaction": [],
+    "lineItemAmountMismatch": [],
+    "clearedNotSyncReady": [
+      {
+        "id": "b47e9a5a-5b0f-4f29-b0e4-65365a3f1994",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "98687321-1a75-4a86-81ab-bdf3c7ed229a",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "efb0c9f9-60ca-423f-bc4c-25c13655fc1f",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "d9a9de99-a78b-4fc9-895d-1ababc7af2c3",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "7cd85c6b-e710-4317-82ce-149b98d89e87",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "9c3a1a3a-2c97-47b3-aa01-2c74956d19e4",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "de437e16-b228-4e56-bbf1-1abc2c53b909",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "4022b0b2-733d-4df9-802a-0dedc3d00b8c",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "ab408f21-c481-4d4e-ac81-7de6a20419f6",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "c229074e-7c55-4178-a6a1-63be8fbda005",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "aeefc0e6-0f3b-4377-a919-7051acc83ed5",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "ae6a8902-c532-4acb-8b63-2ebfcfea06e3",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "901d31e1-29e6-4b55-b6a4-526e9d2c2010",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "9c92aa32-ff57-4af9-b1e6-4c9b2491f7a4",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      },
+      {
+        "id": "6ac173be-3bca-4f56-8548-d2799812b6b3",
+        "sync_status": "NOT_SYNC_READY",
+        "state": "CLEARED"
+      }
+    ],
+    "missingReceiptOver75": [
+      {
+        "id": "34123b7e-ca09-445f-8dfa-af14dba205f8",
+        "amount": 205.49,
+        "merchant_name": "RGN Management Limited Partnership"
+      },
+      {
+        "id": "8cd7835d-2119-4227-8e8c-12148baaa8e2",
+        "amount": 276.96,
+        "merchant_name": "Frontier"
+      },
+      {
+        "id": "1dc77c6e-3291-4036-af4f-d685f8722bbe",
+        "amount": 926.88,
+        "merchant_name": "Frontier"
+      },
+      {
+        "id": "6e26282d-ee3a-4d06-9964-6dbf8189f891",
+        "amount": 166.9,
+        "merchant_name": "Xfinity"
+      },
+      {
+        "id": "2c0f4547-c80f-4827-8cd5-64e32a21a315",
+        "amount": 101.28,
+        "merchant_name": "T-Mobile"
+      },
+      {
+        "id": "2b32b462-f236-40d0-9156-bf7a7f0917f3",
+        "amount": 101.27,
+        "merchant_name": "T-Mobile"
+      },
+      {
+        "id": "13b8c8b3-d8f4-4bf3-b799-2032a8119e53",
+        "amount": 229.22,
+        "merchant_name": "Kroger"
+      },
+      {
+        "id": "f4e92e8e-a519-4342-b279-2457d40c4f8f",
+        "amount": 1000,
+        "merchant_name": "TRP Taste"
+      },
+      {
+        "id": "9b7a7922-3aa8-4724-ba2c-ba01397a3ecc",
+        "amount": 96,
+        "merchant_name": "Dfw Airport Parking"
+      },
+      {
+        "id": "2725d467-5c53-4265-9227-11871dfccd38",
+        "amount": 2524.56,
+        "merchant_name": "Rooftop"
+      },
+      {
+        "id": "e7a963da-db48-4b93-b072-852875d326e5",
+        "amount": 118.56,
+        "merchant_name": "Flower Child"
+      },
+      {
+        "id": "82650cd7-3290-4cb2-b9c5-3f2b944a0403",
+        "amount": 332.55,
+        "merchant_name": "The Watermark Hotel"
+      },
+      {
+        "id": "769d79f5-d559-4f4a-8216-66eea3f1bcce",
+        "amount": 264.54,
+        "merchant_name": "The Watermark Hotel"
+      },
+      {
+        "id": "aeb6384b-f709-43d6-b48f-a04b84875c1c",
+        "amount": 88.13,
+        "merchant_name": "Capital One Arena"
+      },
+      {
+        "id": "72857ee4-9032-4529-ac9d-324ad7de5c4e",
+        "amount": 628.89,
+        "merchant_name": "Loews Hotels"
+      }
+    ],
+    "missingMemoOver100": [
+      {
+        "id": "8cd7835d-2119-4227-8e8c-12148baaa8e2",
+        "amount": 276.96,
+        "merchant_name": "Frontier"
+      },
+      {
+        "id": "1dc77c6e-3291-4036-af4f-d685f8722bbe",
+        "amount": 926.88,
+        "merchant_name": "Frontier"
+      },
+      {
+        "id": "6e26282d-ee3a-4d06-9964-6dbf8189f891",
+        "amount": 166.9,
+        "merchant_name": "Xfinity"
+      },
+      {
+        "id": "2c0f4547-c80f-4827-8cd5-64e32a21a315",
+        "amount": 101.28,
+        "merchant_name": "T-Mobile"
+      },
+      {
+        "id": "2b32b462-f236-40d0-9156-bf7a7f0917f3",
+        "amount": 101.27,
+        "merchant_name": "T-Mobile"
+      },
+      {
+        "id": "13b8c8b3-d8f4-4bf3-b799-2032a8119e53",
+        "amount": 229.22,
+        "merchant_name": "Kroger"
+      },
+      {
+        "id": "f4e92e8e-a519-4342-b279-2457d40c4f8f",
+        "amount": 1000,
+        "merchant_name": "TRP Taste"
+      },
+      {
+        "id": "2725d467-5c53-4265-9227-11871dfccd38",
+        "amount": 2524.56,
+        "merchant_name": "Rooftop"
+      },
+      {
+        "id": "e7a963da-db48-4b93-b072-852875d326e5",
+        "amount": 118.56,
+        "merchant_name": "Flower Child"
+      },
+      {
+        "id": "769d79f5-d559-4f4a-8216-66eea3f1bcce",
+        "amount": 264.54,
+        "merchant_name": "The Watermark Hotel"
+      },
+      {
+        "id": "da8c872b-483a-4d3e-af9f-398d50556602",
+        "amount": 1971.8,
+        "merchant_name": "American Airlines"
+      },
+      {
+        "id": "72857ee4-9032-4529-ac9d-324ad7de5c4e",
+        "amount": 628.89,
+        "merchant_name": "Loews Hotels"
+      },
+      {
+        "id": "cf8cb933-39a2-4930-b9e5-a979d1ccfe18",
+        "amount": 511.19,
+        "merchant_name": "Air Canada"
+      },
+      {
+        "id": "87e32228-5ec7-4902-9159-0e796702e99e",
+        "amount": 135.65,
+        "merchant_name": "Uber"
+      },
+      {
+        "id": "2d50ad21-aad0-4689-a09b-d8eb60636c8b",
+        "amount": 159.34,
+        "merchant_name": "Courtyard by Marriott"
+      }
+    ],
+    "duplicateIds": []
+  }
+}

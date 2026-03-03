@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --canvas-950: #06131e;
+  --canvas-900: #0a1b2a;
+  --surface-900: #0f2233;
+  --surface-800: #13293d;
+  --surface-700: #18344e;
+  --text-100: #f1f5f9;
+  --text-200: #d4dde7;
+  --text-300: #aab8c8;
+  --text-400: #7e91a6;
+  --brand-600: #0f766e;
+  --brand-500: #14b8a6;
+  --brand-400: #2dd4bf;
+  --brand-300: #5eead4;
+  --accent-300: #fbbf24;
+  --border-soft: rgba(148, 163, 184, 0.2);
+  --border-strong: rgba(148, 163, 184, 0.35);
+}
+
+@theme inline {
+  --font-sans: var(--font-manrope);
+  --font-mono: var(--font-ibm-plex-mono);
+  --font-display: var(--font-space-grotesk);
+}
+
+* {
+  border-color: var(--border-soft);
+}
+
+body {
+  background:
+    radial-gradient(circle at 12% 18%, rgba(45, 212, 191, 0.16), transparent 34%),
+    radial-gradient(circle at 88% 8%, rgba(251, 191, 36, 0.14), transparent 33%),
+    linear-gradient(180deg, var(--canvas-900), var(--canvas-950));
+  color: var(--text-200);
+  min-height: 100vh;
+  font-family: var(--font-sans), sans-serif;
+}
+
+::selection {
+  background: rgba(94, 234, 212, 0.4);
+  color: var(--canvas-950);
+}
