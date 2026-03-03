@@ -85,10 +85,10 @@ export default function SignInPage() {
 
           {providersLoaded && !externalProviders.length && (
             <p className="rounded-xl border border-amber-300/30 bg-amber-300/10 px-3 py-2 text-sm text-amber-100">
-              Microsoft SSO provider is not configured.
+              No SSO provider is configured.
               {localProvider
                 ? " Use the Local fallback form below to sign in."
-                : " Add Azure Entra credentials to enable Microsoft sign-in."}
+                : " Add Google or Azure Entra credentials to enable SSO sign-in."}
             </p>
           )}
         </div>

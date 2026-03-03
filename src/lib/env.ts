@@ -10,12 +10,15 @@ const envSchema = z.object({
   SUPABASE_SECRET_KEY: z.string().optional(),
   WORKFLOW_API_SECRET: z.string().min(20).optional(),
   WORKFLOW_TEAM_IDS: z.string().optional(),
+  GOOGLE_CLIENT_ID: z.string().optional(),
+  GOOGLE_CLIENT_SECRET: z.string().optional(),
   AZURE_AD_CLIENT_ID: z.string().optional(),
   AZURE_AD_CLIENT_SECRET: z.string().optional(),
   AZURE_AD_TENANT_ID: z.string().optional(),
   LOCAL_ADMIN_EMAIL: z.string().email().optional(),
   LOCAL_ADMIN_PASSWORD: z.string().min(8).optional(),
   LOCAL_ADMIN_PASSWORD_SHA256: z.string().length(64).optional(),
+  APP_ADMIN_EMAILS: z.string().optional(),
   APP_ALLOWED_EMAIL_DOMAIN: z.string().optional(),
   RAMP_CLIENT_ID: z.string().optional(),
   RAMP_CLIENT_SECRET: z.string().optional(),
@@ -67,6 +70,10 @@ export function isAzureSsoConfigured() {
       env.AZURE_AD_CLIENT_SECRET &&
       env.AZURE_AD_TENANT_ID,
   );
+}
+
+export function isGoogleSsoConfigured() {
+  return Boolean(env.GOOGLE_CLIENT_ID && env.GOOGLE_CLIENT_SECRET);
 }
 
 export function isLocalCredentialFallbackConfigured() {

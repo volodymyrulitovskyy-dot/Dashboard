@@ -3,10 +3,16 @@ import { createHash, randomUUID } from "node:crypto";
 import { getServerSession, type NextAuthOptions } from "next-auth";
 import CredentialsProvider from "next-auth/providers/credentials";
 import AzureADProvider from "next-auth/providers/azure-ad";
+import GoogleProvider from "next-auth/providers/google";
 
 import { logAuditEvent } from "@/lib/audit";
 import { getTeamsForUser } from "@/lib/data/mock-data";
-import { env, isAzureSsoConfigured, isLocalCredentialFallbackConfigured } from "@/lib/env";
+import {
+  env,
+  isAzureSsoConfigured,
+  isGoogleSsoConfigured,
+  isLocalCredentialFallbackConfigured,
+} from "@/lib/env";
 import { checkRateLimit } from "@/lib/security/rate-limit";
 import { getClientIpFromUnknownRequest, secureEqual } from "@/lib/security/request";
 
@@ -37,6 +43,56 @@ function verifyLocalAdminPassword(candidatePassword: string) {
 
 function sleep(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function getConfiguredAdminEmails() {
+  const adminEmails = new Set<string>();
+
+  if (env.LOCAL_ADMIN_EMAIL) {
+    adminEmails.add(normalizeEmail(env.LOCAL_ADMIN_EMAIL));
+  }
+
+  if (env.APP_ADMIN_EMAILS) {
+    for (const entry of env.APP_ADMIN_EMAILS.split(",")) {
+      const normalized = normalizeEmail(entry);
+      if (normalized.includes("@")) {
+        adminEmails.add(normalized);
+      }
+    }
+  }
+
+  return adminEmails;
+}
+
+const configuredAdminEmails = getConfiguredAdminEmails();
+
+function getTeamsForSignedInUser(email: string | null | undefined) {
+  const defaultTeams = getTeamsForUser();
+  if (!email) {
+    return defaultTeams.map((team) => ({ ...team, role: "VIEWER" as const }));
+  }
+
+  const normalizedEmail = normalizeEmail(email);
+  if (configuredAdminEmails.has(normalizedEmail)) {
+    return defaultTeams;
+  }
+
+  return defaultTeams.map((team) => ({ ...team, role: "VIEWER" as const }));
+}
+
+if (isGoogleSsoConfigured()) {
+  providers.push(
+    GoogleProvider({
+      clientId: env.GOOGLE_CLIENT_ID ?? "",
+      clientSecret: env.GOOGLE_CLIENT_SECRET ?? "",
+      authorization: {
+        params: {
+          scope: "openid email profile",
+          prompt: "select_account",
+        },
+      },
+    }),
+  );
 }
 
 if (isAzureSsoConfigured()) {
@@ -133,7 +189,7 @@ export const authOptions: NextAuthOptions = {
     },
     async jwt({ token, user }) {
       if (user) {
-        const teams = getTeamsForUser();
+        const teams = getTeamsForSignedInUser(user.email);
 
         token.id = (user as { id?: string }).id ?? token.sub ?? randomUUID();
         token.teams = teams;
@@ -162,7 +218,7 @@ export const authOptions: NextAuthOptions = {
             teamSlug: string;
             role: "OWNER" | "ADMIN" | "ACCOUNTANT" | "VIEWER";
           }>)
-        : getTeamsForUser();
+        : getTeamsForSignedInUser(session.user.email);
 
       return session;
     },

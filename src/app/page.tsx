@@ -22,7 +22,7 @@ export default async function HomePage() {
             AR, AP, and GL integration hub for NetSuite migration.
           </h1>
           <p className="mt-5 max-w-2xl text-lg text-[var(--text-300)]">
-            Built for team-scale operations: Microsoft SSO, multi-team tenancy, audit trails,
+            Built for team-scale operations: Google/Microsoft SSO, multi-team tenancy, audit trails,
             and source-to-target reconciliation across Unanet exports and Ramp API.
           </p>
 
@@ -45,7 +45,7 @@ export default async function HomePage() {
 
           {!providerConfigured && (
             <p className="mt-5 rounded-xl border border-amber-300/30 bg-amber-300/10 px-4 py-3 text-sm text-amber-100">
-              No auth provider is configured yet. Add Azure Entra credentials (or local fallback)
+              No auth provider is configured yet. Add Google or Azure Entra credentials (or local fallback)
               in `.env.local` before signing in.
             </p>
           )}

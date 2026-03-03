@@ -7,7 +7,7 @@ A local-first finance operations portal for migrating and reconciling:
 into NetSuite.
 
 ## Features
-- Microsoft Entra ID SSO (Azure AD) with NextAuth
+- Google OAuth + Microsoft Entra ID SSO with NextAuth
 - Multi-team tenancy with RBAC (`OWNER`, `ADMIN`, `ACCOUNTANT`, `VIEWER`)
 - Integration modules for Ramp OAuth2, NetSuite OAuth2 M2M, and Unanet API
 - Reconciliation dashboard (control totals, variances, import run logs)
@@ -29,6 +29,14 @@ into NetSuite.
    - Or without global Node install: `.\run-local.ps1 -Command dev`
 6. Open `http://localhost:3000`
 
+## Google OAuth Setup
+1. Create OAuth credentials in Google Cloud Console.
+2. Add redirect URI:
+   - `http://localhost:3000/api/auth/callback/google`
+3. Add to `.env.local`:
+   - `GOOGLE_CLIENT_ID`
+   - `GOOGLE_CLIENT_SECRET`
+
 ## Microsoft Entra Setup
 1. Register an app in Entra ID.
 2. Add redirect URI:
@@ -39,6 +47,8 @@ into NetSuite.
    - `AZURE_AD_CLIENT_SECRET`
    - `AZURE_AD_TENANT_ID`
 5. For local credential fallback, prefer `LOCAL_ADMIN_PASSWORD_SHA256` instead of plain password.
+6. Optional admin RBAC override:
+   - `APP_ADMIN_EMAILS=volodymyr.ulitovskyy@gmail.com`
 
 ## Ramp + NetSuite + Unanet + ADP Inputs
 - Ramp: `RAMP_CLIENT_ID`, `RAMP_CLIENT_SECRET`, and scoped OAuth permissions.
