@@ -2,13 +2,14 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Activity, Cable, LayoutDashboard, ShieldCheck } from "lucide-react";
+import { Activity, Cable, LayoutDashboard, ShieldCheck, Table2 } from "lucide-react";
 
 import { cn } from "@/lib/utils";
 
 const items = [
   { href: "/dashboard", label: "Overview", icon: LayoutDashboard },
   { href: "/dashboard/integrations", label: "Integrations", icon: Cable },
+  { href: "/dashboard/mapping", label: "Mapping", icon: Table2 },
   { href: "/dashboard/reconciliation", label: "Reconciliation", icon: Activity },
   { href: "/dashboard/security", label: "Security", icon: ShieldCheck },
 ];

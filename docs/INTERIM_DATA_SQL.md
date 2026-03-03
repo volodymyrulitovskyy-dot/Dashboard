@@ -29,6 +29,14 @@ Rationale:
   - `InterimLaborAllocation`
 - Outbound accounting payload evidence:
   - `InterimJournalEntryLine`
+- Reference mapping control:
+  - `ReferenceMappingDefinition`
+- External reference placeholders (TBD-finalized schema):
+  - `ExternalCoaTbd`
+  - `ExternalProjectTbd`
+  - `ExternalVendorTbd`
+  - `ExternalEmployeeTbd`
+  - `ExternalCustomerTbd`
 
 ## Retention Guidance
 - Raw payloads: 13 months minimum (or policy-required retention).
@@ -42,5 +50,15 @@ Rationale:
 
 ## Migration File
 `supabase/migrations/20260303_0002_interim_pipeline_tables.sql`
+
+## Mapping Migration File
+`supabase/migrations/20260303_0003_reference_mapping_tables.sql`
+
+The mapping migration seeds a `teamId = 'template'` baseline for:
+- NetSuite COA
+- Project List
+- Vendor List
+- Employee List
+- Customer List
 
 Apply this migration through your Supabase migration workflow before enabling full production automation.
