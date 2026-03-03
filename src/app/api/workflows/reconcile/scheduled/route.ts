@@ -4,6 +4,7 @@ import { z } from "zod";
 import { getTeamIdsWithConfiguredIntegrations } from "@/lib/data/runtime-data";
 import { env } from "@/lib/env";
 import { logger } from "@/lib/logger";
+import { isSourceIpAllowed } from "@/lib/security/network";
 import { buildRateLimitHeaders, checkRateLimit } from "@/lib/security/rate-limit";
 import { getClientIp, secureEqual } from "@/lib/security/request";
 import { runAutomatedReconciliationWorkflow } from "@/lib/workflows/reconciliation-workflow";
@@ -70,6 +71,14 @@ export async function POST(request: Request) {
     return NextResponse.json(
       { error: "Unauthorized" },
       { status: 401, headers: buildRateLimitHeaders(rateLimit) },
+    );
+  }
+
+  if (!isSourceIpAllowed(sourceIp, env.WORKFLOW_ALLOWED_IPS)) {
+    logger.warn({ sourceIp }, "scheduled reconciliation workflow blocked by IP allowlist");
+    return NextResponse.json(
+      { error: "Forbidden" },
+      { status: 403, headers: buildRateLimitHeaders(rateLimit) },
     );
   }
 

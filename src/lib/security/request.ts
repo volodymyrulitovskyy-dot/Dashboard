@@ -107,6 +107,19 @@ function collectAllowedOrigins(request: Request) {
     } catch {}
   }
 
+  if (env.APP_ALLOWED_ORIGINS) {
+    for (const item of env.APP_ALLOWED_ORIGINS.split(",")) {
+      const candidate = item.trim();
+      if (!candidate) {
+        continue;
+      }
+
+      try {
+        origins.add(new URL(candidate).origin);
+      } catch {}
+    }
+  }
+
   return origins;
 }
 

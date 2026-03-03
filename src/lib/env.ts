@@ -20,6 +20,7 @@ const envSchema = z.object({
   LOCAL_ADMIN_PASSWORD_SHA256: z.string().length(64).optional(),
   APP_ADMIN_EMAILS: z.string().optional(),
   APP_ALLOWED_EMAIL_DOMAIN: z.string().optional(),
+  APP_ALLOWED_ORIGINS: z.string().optional(),
   RAMP_CLIENT_ID: z.string().optional(),
   RAMP_CLIENT_SECRET: z.string().optional(),
   RAMP_SCOPES: z.string().optional(),
@@ -60,6 +61,7 @@ const envSchema = z.object({
   NETSUITE_LABOR_CLASS_ID: z.string().optional(),
   NETSUITE_LABOR_LOCATION_ID: z.string().optional(),
   NETSUITE_LABOR_MEMO_PREFIX: z.string().optional(),
+  WORKFLOW_ALLOWED_IPS: z.string().optional(),
 });
 
 export const env = envSchema.parse(process.env);

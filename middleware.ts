@@ -5,7 +5,7 @@ export default withAuth(
   function middleware() {
     const response = NextResponse.next();
     response.headers.set("x-request-id", crypto.randomUUID());
-    response.headers.set("x-powered-by", "netsuite-portal");
+    response.headers.set("Cache-Control", "no-store");
     return response;
   },
   {

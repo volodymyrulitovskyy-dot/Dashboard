@@ -6,7 +6,7 @@ const controls = [
   {
     title: "Identity and access",
     points: [
-      "Microsoft Entra SSO with optional domain restriction",
+      "Google OAuth and Microsoft Entra SSO with optional domain restriction",
       "Role-based access across OWNER/ADMIN/ACCOUNTANT/VIEWER",
       "Team-scoped authorization boundaries",
     ],
@@ -16,7 +16,7 @@ const controls = [
     points: [
       "No secrets in source; env-backed secret references only",
       "Security headers and baseline CSP applied globally",
-      "Audit events on sign-in/sign-out and privileged actions",
+      "Audit events persisted to DB for sign-in/sign-out and privileged actions",
     ],
   },
   {
@@ -24,7 +24,7 @@ const controls = [
     points: [
       "Idempotent run keys on import jobs",
       "Control total tracking for every ingestion",
-      "Reconciliation variance workflow with approval thresholds",
+      "Scheduler endpoints can be locked by secret + IP allowlist",
     ],
   },
 ];
@@ -71,7 +71,7 @@ export default function SecurityPage() {
               <li>Move database from local SQLite to managed PostgreSQL with encrypted backups.</li>
               <li>Store all integration secrets in a vault (Azure Key Vault, AWS Secrets Manager, or HashiCorp Vault).</li>
               <li>Enable centralized audit/event forwarding to SIEM with retention policy.</li>
-              <li>Enforce MFA + conditional access policies in Microsoft Entra ID.</li>
+              <li>Enforce MFA + conditional access policies for all SSO providers.</li>
             </ol>
           </div>
         </div>

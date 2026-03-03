@@ -68,6 +68,9 @@ into NetSuite.
 - Scheduler:
   - `WORKFLOW_API_SECRET`
   - optional `WORKFLOW_TEAM_IDS` for scheduled multi-team runs
+  - optional `WORKFLOW_ALLOWED_IPS` (comma-separated) for scheduler source IP allowlist
+- Origin and domain controls:
+  - optional `APP_ALLOWED_ORIGINS` (comma-separated) for controlled multi-domain deployments
 
 ## Workflow Triggers
 - Manual reconciliation trigger (authenticated): `POST /api/workflows/reconcile`
@@ -88,9 +91,13 @@ into NetSuite.
 - Do not commit `.env.local`.
 - Rotate all secrets and certificates on schedule.
 - Scheduled workflow endpoints are secret-protected and rate-limited.
+- Scheduled endpoints can be locked to known source IPs with `WORKFLOW_ALLOWED_IPS`.
 - Manual workflow routes enforce same-origin checks to reduce CSRF risk.
-- For production, migrate from SQLite to PostgreSQL.
+- Audit events persist to DB with in-memory fallback when DB is unavailable.
+- Use Supabase Postgres for production (SQLite only for local development).
 
 ## Docs
 - Architecture: `docs/ARCHITECTURE.md`
 - Security baseline: `docs/SECURITY.md`
+- Operations runbook: `docs/OPERATIONS.md`
+- Interim SQL strategy: `docs/INTERIM_DATA_SQL.md`
